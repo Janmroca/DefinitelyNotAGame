@@ -19,3 +19,7 @@
 -Rebotar paredes
 -Convertirse en bola
 -Armas/Llaves especiales
+
+//ENEMIES
+-Creeper
+-Stormtrooper

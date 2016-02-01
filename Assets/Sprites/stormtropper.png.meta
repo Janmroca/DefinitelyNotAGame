@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 34b0489c2a35552478c3b2e32c3abd68
+timeCreated: 1454357822
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stormtropper_0
+    21300002: stormtropper_1
+    21300004: stormtropper_2
+    21300006: stormtropper_3
+    21300008: stormtropper_4
+    21300010: stormtropper_5
+    21300012: stormtropper_6
+    21300014: stormtropper_7
+    21300016: stormtropper_8
+    21300018: stormtropper_9
+    21300020: stormtropper_10
+    21300022: stormtropper_11
+    21300024: stormtropper_12
+    21300026: stormtropper_13
+    21300028: stormtropper_14
+    21300030: stormtropper_15
+    21300032: stormtropper_16
+    21300034: stormtropper_17
+    21300036: stormtropper_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stormtropper_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 711
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 56.5}
+        - {x: -32, y: 43.5}
+        - {x: -32, y: -56.5}
+        - {x: 26, y: -56.5}
+        - {x: 32, y: -50.5}
+        - {x: 32, y: 21.5}
+        - {x: 19, y: 56.5}
+    - name: stormtropper_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 711
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 55.5}
+        - {x: -26.5, y: 50.5}
+        - {x: -26.5, y: -50.5}
+        - {x: -25.5, y: -55.5}
+        - {x: 6.5, y: -55.5}
+        - {x: 26.5, y: -27.5}
+        - {x: 26.5, y: 36.5}
+        - {x: 20.5, y: 55.5}
+    - name: stormtropper_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 710
+        width: 51
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 53.5}
+        - {x: 23.5, y: 56.5}
+        - {x: -16.5, y: 56.5}
+        - {x: -25.5, y: 38.5}
+        - {x: -25.5, y: -51.5}
+        - {x: -17.5, y: -56.5}
+        - {x: -7.5, y: -56.5}
+        - {x: -3.5, y: -49.5}
+        - {x: 4.5, y: -53.5}
+        - {x: 25.5, y: -50.5}
+    - name: stormtropper_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 712
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 47}
+        - {x: 16.5, y: 56}
+        - {x: -18.5, y: 56}
+        - {x: -26.5, y: 42}
+        - {x: -26.5, y: -46}
+        - {x: -21.5, y: -56}
+        - {x: 2.5, y: -56}
+        - {x: 5.5, y: -48}
+        - {x: 26.5, y: -17}
+        - {x: 26.5, y: 39}
+    - name: stormtropper_4
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 711
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 56.5}
+        - {x: -32, y: 48.5}
+        - {x: -32, y: -36.5}
+        - {x: -28, y: -55.5}
+        - {x: -27, y: -56.5}
+        - {x: 17, y: -56.5}
+        - {x: 20, y: -49.5}
+        - {x: 32, y: -35.5}
+        - {x: 32, y: 56.5}
+    - name: stormtropper_5
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 711
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 54}
+        - {x: -36, y: 42}
+        - {x: -36, y: -54}
+        - {x: 23, y: -54}
+        - {x: 36, y: -16}
+        - {x: 36, y: 21}
+        - {x: 10, y: 54}
+    - name: stormtropper_6
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 711
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 54}
+        - {x: -40.5, y: 51}
+        - {x: -40.5, y: -54}
+        - {x: 18.5, y: -54}
+        - {x: 40.5, y: -28}
+        - {x: 40.5, y: 24}
+        - {x: 21.5, y: 54}
+    - name: stormtropper_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 555
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 56}
+        - {x: -22.5, y: 56}
+        - {x: -26.5, y: 29}
+        - {x: -26.5, y: -15}
+        - {x: -6.5, y: -56}
+        - {x: 23.5, y: -56}
+        - {x: 26.5, y: -41}
+        - {x: 26.5, y: 41}
+        - {x: 21.5, y: 54}
+    - name: stormtropper_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 555
+        width: 51
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 56.5}
+        - {x: -25.5, y: 50.5}
+        - {x: -25.5, y: -56.5}
+        - {x: 25.5, y: -56.5}
+        - {x: 25.5, y: 51.5}
+        - {x: 22.5, y: 56.5}
+    - name: stormtropper_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 555
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -19}
+        - {x: -7.5, y: -56}
+        - {x: 23.5, y: -56}
+        - {x: 26.5, y: -55}
+        - {x: 26.5, y: 56}
+        - {x: -25.5, y: 56}
+        - {x: -26.5, y: 46}
+    - name: stormtropper_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 555
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 56}
+        - {x: -32, y: -56}
+        - {x: 32, y: -56}
+        - {x: 32, y: 27}
+        - {x: 19, y: 56}
+    - name: stormtropper_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 554
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 56.5}
+        - {x: -27, y: 55.5}
+        - {x: -32, y: 46.5}
+        - {x: -32, y: -56.5}
+        - {x: 29, y: -56.5}
+        - {x: 32, y: -37.5}
+        - {x: 32, y: 49.5}
+        - {x: 19, y: 56.5}
+    - name: stormtropper_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 554
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 54}
+        - {x: -36.5, y: 23}
+        - {x: -36.5, y: -15}
+        - {x: -12.5, y: -53}
+        - {x: -10.5, y: -54}
+        - {x: 36.5, y: -54}
+        - {x: 36.5, y: 54}
+    - name: stormtropper_13
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 554
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 54}
+        - {x: -40.5, y: 6}
+        - {x: -40.5, y: -10}
+        - {x: -6.5, y: -54}
+        - {x: 40.5, y: -54}
+        - {x: 40.5, y: 54}
+    - name: stormtropper_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 399
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 53.5}
+        - {x: -21, y: 53.5}
+        - {x: -31, y: 43.5}
+        - {x: -31, y: -29.5}
+        - {x: -22, y: -53.5}
+        - {x: 11, y: -53.5}
+        - {x: 31, y: -21.5}
+        - {x: 31, y: 25.5}
+        - {x: 28, y: 48.5}
+    - name: stormtropper_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 400
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 55}
+        - {x: -16, y: 50}
+        - {x: -27, y: 19}
+        - {x: -30, y: 0}
+        - {x: -30, y: -18}
+        - {x: 1, y: -55}
+        - {x: 21, y: -55}
+        - {x: 30, y: -31}
+        - {x: 30, y: 39}
+        - {x: 20, y: 55}
+    - name: stormtropper_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 399
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 53.5}
+        - {x: -18.5, y: 47.5}
+        - {x: -26.5, y: 19.5}
+        - {x: -27.5, y: 11.5}
+        - {x: -27.5, y: -15.5}
+        - {x: -22.5, y: -25.5}
+        - {x: -14.5, y: -53.5}
+        - {x: 16.5, y: -53.5}
+        - {x: 27.5, y: -20.5}
+        - {x: 27.5, y: 51.5}
+        - {x: 19.5, y: 53.5}
+    - name: stormtropper_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 399
+        width: 58
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 53.5}
+        - {x: -29, y: 53.5}
+        - {x: -29, y: -53.5}
+        - {x: 17, y: -53.5}
+        - {x: 29, y: -22.5}
+        - {x: 29, y: 49.5}
+    - name: stormtropper_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 399
+        width: 63
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 54}
+        - {x: -24.5, y: 42}
+        - {x: -31.5, y: 13}
+        - {x: -31.5, y: -38}
+        - {x: -28.5, y: -54}
+        - {x: 23.5, y: -54}
+        - {x: 31.5, y: -33}
+        - {x: 31.5, y: 14}
+        - {x: 17.5, y: 54}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
