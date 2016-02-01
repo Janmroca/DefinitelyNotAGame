@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 244e09e21719c5e49b2160ba68a088df
+timeCreated: 1454354632
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mono_0
+    21300002: mono_1
+    21300004: mono_2
+    21300006: mono_3
+    21300008: mono_4
+    21300010: mono_5
+    21300012: mono_6
+    21300014: mono_7
+    21300016: mono_8
+    21300018: mono_9
+    21300020: mono_10
+    21300022: mono_11
+    21300024: mono_12
+    21300026: mono_13
+    21300028: mono_14
+    21300030: mono_15
+    21300032: mono_16
+    21300034: mono_17
+    21300036: mono_18
+    21300038: mono_19
+    21300040: mono_20
+    21300042: mono_21
+    21300044: mono_22
+    21300046: mono_23
+    21300048: mono_24
+    21300050: mono_25
+    21300052: mono_26
+    21300054: mono_27
+    21300056: mono_28
+    21300058: mono_29
+    21300060: mono_30
+    21300062: mono_31
+    21300064: mono_32
+    21300066: mono_33
+    21300068: mono_34
+    21300070: mono_35
+    21300072: mono_36
+    21300074: mono_37
+    21300076: mono_38
+    21300078: mono_39
+    21300080: mono_40
+    21300082: mono_41
+    21300084: mono_42
+    21300086: mono_43
+    21300088: mono_44
+    21300090: mono_45
+    21300092: mono_46
+    21300094: mono_47
+    21300096: mono_48
+    21300098: mono_49
+    21300100: mono_50
+    21300102: mono_51
+    21300104: mono_52
+    21300106: mono_53
+    21300108: mono_54
+    21300110: mono_55
+    21300112: mono_56
+    21300114: mono_57
+    21300116: mono_58
+    21300118: mono_59
+    21300120: mono_60
+    21300122: mono_61
+    21300124: mono_62
+    21300126: mono_63
+    21300128: mono_64
+    21300130: mono_65
+    21300132: mono_66
+    21300134: mono_67
+    21300136: mono_68
+    21300138: mono_69
+    21300140: mono_70
+    21300142: mono_71
+    21300144: mono_72
+    21300146: mono_73
+    21300148: mono_74
+    21300150: mono_75
+    21300152: mono_76
+    21300154: mono_77
+    21300156: mono_78
+    21300158: mono_79
+    21300160: mono_80
+    21300162: mono_81
+    21300164: mono_82
+    21300166: mono_83
+    21300168: mono_84
+    21300170: mono_85
+    21300172: mono_86
+    21300174: mono_87
+    21300176: mono_88
+    21300178: mono_89
+    21300180: mono_90
+    21300182: mono_91
+    21300184: mono_92
+    21300186: mono_93
+    21300188: mono_94
+    21300190: mono_95
+    21300192: mono_96
+    21300194: mono_97
+    21300196: mono_98
+    21300198: mono_99
+    21300200: mono_100
+    21300202: mono_101
+    21300204: mono_102
+    21300206: mono_103
+    21300208: mono_104
+    21300210: mono_105
+    21300212: mono_106
+    21300214: mono_107
+    21300216: mono_108
+    21300218: mono_109
+    21300220: mono_110
+    21300222: mono_111
+    21300224: mono_112
+    21300226: mono_113
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mono_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 238
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 237
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 1.5}
+        - {x: 26, y: 14.5}
+        - {x: 17, y: 21.5}
+        - {x: -17, y: 21.5}
+        - {x: -26, y: 3.5}
+        - {x: -26, y: -5.5}
+        - {x: -21, y: -7.5}
+        - {x: -18, y: -15.5}
+        - {x: -11, y: -21.5}
+        - {x: 5, y: -21.5}
+        - {x: 5, y: -19.5}
+        - {x: 17, y: -15.5}
+    - name: mono_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 238
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 21.5}
+        - {x: -28, y: -7.5}
+        - {x: -16, y: -21.5}
+        - {x: 12, y: -21.5}
+        - {x: 22, y: -19.5}
+        - {x: 28, y: -8.5}
+        - {x: 28, y: 18.5}
+        - {x: 26, y: 21.5}
+    - name: mono_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 237
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -19.5}
+        - {x: 12, y: -17.5}
+        - {x: 26, y: -12.5}
+        - {x: 26, y: 16.5}
+        - {x: 24, y: 21.5}
+        - {x: -14, y: 21.5}
+        - {x: -26, y: 16.5}
+        - {x: -26, y: -16.5}
+        - {x: -18, y: -16.5}
+        - {x: -14, y: -21.5}
+        - {x: 13, y: -21.5}
+    - name: mono_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 236
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 21.5}
+        - {x: -15.5, y: 21.5}
+        - {x: -25.5, y: 17.5}
+        - {x: -25.5, y: -13.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -6.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 25.5, y: 12.5}
+    - name: mono_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 236
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21.5}
+        - {x: -15, y: 17.5}
+        - {x: -29, y: 16.5}
+        - {x: -29, y: -7.5}
+        - {x: -22, y: -19.5}
+        - {x: -10, y: -21.5}
+        - {x: 18, y: -21.5}
+        - {x: 29, y: -16.5}
+        - {x: 29, y: 15.5}
+        - {x: 27, y: 21.5}
+    - name: mono_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 235
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -5.5}
+        - {x: -23, y: -21.5}
+        - {x: 28, y: -21.5}
+        - {x: 29, y: -20.5}
+        - {x: 29, y: 14.5}
+        - {x: 22, y: 21.5}
+        - {x: -18, y: 21.5}
+        - {x: -21, y: 20.5}
+        - {x: -29, y: 12.5}
+    - name: mono_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 181
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 181
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 182
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 181
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 181
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -17, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 17, y: -20.5}
+        - {x: 17, y: 21.5}
+    - name: mono_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 182
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21.5}
+        - {x: -16, y: -18.5}
+        - {x: -15, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 21.5}
+    - name: mono_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 127
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 127
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 127
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 127
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 127
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 127
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 69
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 23}
+        - {x: -18, y: 11}
+        - {x: -18, y: -17}
+        - {x: -13, y: -23}
+        - {x: 18, y: -23}
+        - {x: 18, y: 23}
+    - name: mono_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -24, y: -2}
+        - {x: -24, y: -16}
+        - {x: -7, y: -22}
+        - {x: 24, y: -22}
+        - {x: 24, y: 22}
+    - name: mono_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 33
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4950794, y: 0.51006085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.662384, y: -23.4628}
+        - {x: 15.662384, y: -23.4628}
+        - {x: 15.662384, y: 22.5372}
+        - {x: -15.337616, y: 22.5372}
+        - {x: -16.337616, y: 19.5372}
+        - {x: -16.337616, y: -17.4628}
+        - {x: -12.337616, y: -23.4628}
+        - {x: -0.33761597, y: -23.4628}
+        - {x: 0.66238403, y: -22.4628}
+        - {x: 0.66238403, y: -20.4628}
+        - {x: 0.66238403, y: -22.4628}
+    - name: mono_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 69
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 69
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 69
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mono_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
