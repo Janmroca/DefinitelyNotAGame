@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d987caa9c8c273544aabf84ad0bdc5d8
-timeCreated: 1454345210
+timeCreated: 1454425020
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -337,6 +337,8 @@ TextureImporter:
     21300660: samus-fusion_sheet (1)_332
     21300662: samus-fusion_sheet (1)_333
     21300664: samus-fusion_sheet (1)_334
+    21300666: samus-fusion_sheet (1)_12
+    21300668: samus-fusion_sheet (1)_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -390,8 +392,8 @@ TextureImporter:
         y: 1148
         width: 24
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_1
@@ -401,8 +403,8 @@ TextureImporter:
         y: 1148
         width: 24
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_2
@@ -412,8 +414,8 @@ TextureImporter:
         y: 1148
         width: 24
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_3
@@ -423,8 +425,8 @@ TextureImporter:
         y: 1148
         width: 24
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_4
@@ -434,8 +436,8 @@ TextureImporter:
         y: 1149
         width: 16
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_5
@@ -445,8 +447,8 @@ TextureImporter:
         y: 1149
         width: 16
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_6
@@ -456,8 +458,8 @@ TextureImporter:
         y: 1149
         width: 16
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_7
@@ -467,8 +469,8 @@ TextureImporter:
         y: 1149
         width: 18
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_8
@@ -478,8 +480,8 @@ TextureImporter:
         y: 1154
         width: 20
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_9
@@ -489,8 +491,8 @@ TextureImporter:
         y: 1154
         width: 20
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_10
@@ -500,8 +502,8 @@ TextureImporter:
         y: 1154
         width: 20
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_11
@@ -511,42 +513,32 @@ TextureImporter:
         y: 1153
         width: 27
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1165
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_13
       rect:
         serializedVersion: 2
-        x: 598
-        y: 1147
-        width: 35
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 607
+        y: 1150
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 16.5, y: 4.5}
-        - {x: 14.5, y: 4.5}
-        - {x: 13.5, y: 5.5}
-        - {x: 15.5, y: 4.5}
-        - {x: 16.5, y: 4.5}
-        - {x: 17.5, y: 5.5}
-        - {x: 17.5, y: 15.5}
-        - {x: 12.5, y: 19.5}
-        - {x: 0.5, y: 19.5}
-        - {x: -2.5, y: 17.5}
-        - {x: -5.5, y: 14.5}
-        - {x: -7.5, y: 2.5}
-        - {x: -7.5, y: 0.5}
-        - {x: -7.5, y: 3.5}
-        - {x: -8.5, y: 6.5}
-        - {x: -15.5, y: 5.5}
-        - {x: -15.5, y: -16.5}
-        - {x: -12.5, y: -18.5}
-        - {x: 12.5, y: -18.5}
-        - {x: 17.5, y: -9.5}
-        - {x: 17.5, y: 3.5}
+      outline: []
     - name: samus-fusion_sheet (1)_14
       rect:
         serializedVersion: 2
@@ -554,8 +546,19 @@ TextureImporter:
         y: 1153
         width: 26
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1153
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_16
@@ -565,8 +568,8 @@ TextureImporter:
         y: 1099
         width: 24
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_17
@@ -576,8 +579,8 @@ TextureImporter:
         y: 1099
         width: 24
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_18
@@ -587,8 +590,8 @@ TextureImporter:
         y: 1099
         width: 24
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_19
@@ -598,8 +601,8 @@ TextureImporter:
         y: 1099
         width: 23
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_20
@@ -609,8 +612,8 @@ TextureImporter:
         y: 1099
         width: 23
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_21
@@ -620,8 +623,8 @@ TextureImporter:
         y: 1099
         width: 25
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_22
@@ -631,8 +634,8 @@ TextureImporter:
         y: 1099
         width: 25
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_23
@@ -642,8 +645,8 @@ TextureImporter:
         y: 1101
         width: 23
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_24
@@ -653,8 +656,8 @@ TextureImporter:
         y: 1102
         width: 22
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_25
@@ -664,8 +667,8 @@ TextureImporter:
         y: 1100
         width: 24
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_26
@@ -675,8 +678,8 @@ TextureImporter:
         y: 1100
         width: 26
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_27
@@ -686,8 +689,8 @@ TextureImporter:
         y: 1100
         width: 26
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_28
@@ -697,8 +700,8 @@ TextureImporter:
         y: 1100
         width: 24
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_29
@@ -708,8 +711,8 @@ TextureImporter:
         y: 1102
         width: 22
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_30
@@ -719,8 +722,8 @@ TextureImporter:
         y: 1101
         width: 23
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_31
@@ -730,8 +733,8 @@ TextureImporter:
         y: 1051
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_32
@@ -741,8 +744,8 @@ TextureImporter:
         y: 1051
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_33
@@ -752,8 +755,8 @@ TextureImporter:
         y: 1051
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_34
@@ -763,8 +766,8 @@ TextureImporter:
         y: 1051
         width: 22
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_35
@@ -774,8 +777,8 @@ TextureImporter:
         y: 1051
         width: 20
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_36
@@ -785,8 +788,8 @@ TextureImporter:
         y: 1051
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_37
@@ -796,8 +799,8 @@ TextureImporter:
         y: 1051
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_38
@@ -807,8 +810,8 @@ TextureImporter:
         y: 1051
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_39
@@ -818,8 +821,8 @@ TextureImporter:
         y: 1052
         width: 25
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_40
@@ -829,8 +832,8 @@ TextureImporter:
         y: 1053
         width: 23
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_41
@@ -840,8 +843,8 @@ TextureImporter:
         y: 1050
         width: 24
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_42
@@ -851,8 +854,8 @@ TextureImporter:
         y: 1049
         width: 24
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_43
@@ -862,8 +865,8 @@ TextureImporter:
         y: 1049
         width: 24
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_44
@@ -873,8 +876,8 @@ TextureImporter:
         y: 1050
         width: 24
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_45
@@ -884,8 +887,8 @@ TextureImporter:
         y: 1053
         width: 23
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_46
@@ -895,8 +898,8 @@ TextureImporter:
         y: 1052
         width: 25
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_47
@@ -906,8 +909,8 @@ TextureImporter:
         y: 995
         width: 20
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_48
@@ -917,8 +920,8 @@ TextureImporter:
         y: 995
         width: 20
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_49
@@ -928,8 +931,8 @@ TextureImporter:
         y: 995
         width: 20
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_50
@@ -939,8 +942,8 @@ TextureImporter:
         y: 995
         width: 20
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_51
@@ -950,8 +953,8 @@ TextureImporter:
         y: 995
         width: 20
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_52
@@ -961,8 +964,8 @@ TextureImporter:
         y: 995
         width: 20
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_53
@@ -972,8 +975,8 @@ TextureImporter:
         y: 996
         width: 16
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_54
@@ -983,8 +986,8 @@ TextureImporter:
         y: 998
         width: 16
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_55
@@ -994,8 +997,8 @@ TextureImporter:
         y: 996
         width: 16
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_56
@@ -1005,8 +1008,8 @@ TextureImporter:
         y: 994
         width: 17
         height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_57
@@ -1016,8 +1019,8 @@ TextureImporter:
         y: 994
         width: 17
         height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_58
@@ -1027,8 +1030,8 @@ TextureImporter:
         y: 996
         width: 16
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_59
@@ -1038,8 +1041,8 @@ TextureImporter:
         y: 998
         width: 16
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_60
@@ -1049,8 +1052,8 @@ TextureImporter:
         y: 996
         width: 16
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_61
@@ -1060,8 +1063,8 @@ TextureImporter:
         y: 949
         width: 28
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_62
@@ -1071,8 +1074,8 @@ TextureImporter:
         y: 949
         width: 28
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_63
@@ -1082,8 +1085,8 @@ TextureImporter:
         y: 949
         width: 28
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_64
@@ -1093,8 +1096,8 @@ TextureImporter:
         y: 949
         width: 24
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_65
@@ -1104,8 +1107,8 @@ TextureImporter:
         y: 949
         width: 21
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_66
@@ -1115,8 +1118,8 @@ TextureImporter:
         y: 949
         width: 27
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_67
@@ -1126,8 +1129,8 @@ TextureImporter:
         y: 949
         width: 27
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_68
@@ -1137,8 +1140,8 @@ TextureImporter:
         y: 949
         width: 27
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_69
@@ -1148,8 +1151,8 @@ TextureImporter:
         y: 946
         width: 17
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_70
@@ -1159,8 +1162,8 @@ TextureImporter:
         y: 948
         width: 16
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_71
@@ -1170,8 +1173,8 @@ TextureImporter:
         y: 945
         width: 16
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_72
@@ -1181,8 +1184,8 @@ TextureImporter:
         y: 945
         width: 16
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_73
@@ -1192,8 +1195,8 @@ TextureImporter:
         y: 945
         width: 16
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_74
@@ -1203,8 +1206,8 @@ TextureImporter:
         y: 945
         width: 16
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_75
@@ -1214,8 +1217,8 @@ TextureImporter:
         y: 948
         width: 17
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_76
@@ -1225,8 +1228,8 @@ TextureImporter:
         y: 946
         width: 17
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_77
@@ -1236,8 +1239,8 @@ TextureImporter:
         y: 901
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_78
@@ -1247,8 +1250,8 @@ TextureImporter:
         y: 901
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_79
@@ -1258,8 +1261,8 @@ TextureImporter:
         y: 901
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_80
@@ -1269,8 +1272,8 @@ TextureImporter:
         y: 901
         width: 23
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_81
@@ -1280,8 +1283,8 @@ TextureImporter:
         y: 901
         width: 20
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_82
@@ -1291,8 +1294,8 @@ TextureImporter:
         y: 901
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_83
@@ -1302,8 +1305,8 @@ TextureImporter:
         y: 901
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_84
@@ -1313,8 +1316,8 @@ TextureImporter:
         y: 901
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_85
@@ -1324,8 +1327,8 @@ TextureImporter:
         y: 900
         width: 22
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_86
@@ -1335,8 +1338,8 @@ TextureImporter:
         y: 902
         width: 21
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_87
@@ -1346,8 +1349,8 @@ TextureImporter:
         y: 900
         width: 23
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_88
@@ -1357,8 +1360,8 @@ TextureImporter:
         y: 899
         width: 25
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_89
@@ -1368,8 +1371,8 @@ TextureImporter:
         y: 899
         width: 25
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_90
@@ -1379,8 +1382,8 @@ TextureImporter:
         y: 900
         width: 23
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_91
@@ -1390,8 +1393,8 @@ TextureImporter:
         y: 902
         width: 21
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_92
@@ -1401,8 +1404,8 @@ TextureImporter:
         y: 900
         width: 22
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_93
@@ -1412,8 +1415,8 @@ TextureImporter:
         y: 851
         width: 30
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_94
@@ -1423,8 +1426,8 @@ TextureImporter:
         y: 851
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_95
@@ -1434,8 +1437,8 @@ TextureImporter:
         y: 851
         width: 21
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_96
@@ -1445,8 +1448,8 @@ TextureImporter:
         y: 851
         width: 18
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_97
@@ -1456,8 +1459,8 @@ TextureImporter:
         y: 851
         width: 21
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_98
@@ -1467,8 +1470,8 @@ TextureImporter:
         y: 851
         width: 20
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_99
@@ -1478,8 +1481,8 @@ TextureImporter:
         y: 851
         width: 27
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_100
@@ -1489,8 +1492,8 @@ TextureImporter:
         y: 851
         width: 30
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_101
@@ -1500,8 +1503,8 @@ TextureImporter:
         y: 851
         width: 24
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_102
@@ -1511,8 +1514,8 @@ TextureImporter:
         y: 853
         width: 22
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_103
@@ -1522,8 +1525,8 @@ TextureImporter:
         y: 849
         width: 23
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_104
@@ -1533,8 +1536,8 @@ TextureImporter:
         y: 849
         width: 23
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_105
@@ -1544,8 +1547,8 @@ TextureImporter:
         y: 849
         width: 23
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_106
@@ -1555,8 +1558,8 @@ TextureImporter:
         y: 849
         width: 23
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_107
@@ -1566,8 +1569,8 @@ TextureImporter:
         y: 853
         width: 22
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_108
@@ -1577,8 +1580,8 @@ TextureImporter:
         y: 851
         width: 24
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_109
@@ -1588,8 +1591,8 @@ TextureImporter:
         y: 801
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_110
@@ -1599,8 +1602,8 @@ TextureImporter:
         y: 801
         width: 20
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_111
@@ -1610,8 +1613,8 @@ TextureImporter:
         y: 801
         width: 18
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_112
@@ -1621,8 +1624,8 @@ TextureImporter:
         y: 800
         width: 24
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_113
@@ -1632,8 +1635,8 @@ TextureImporter:
         y: 800
         width: 24
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_114
@@ -1643,8 +1646,8 @@ TextureImporter:
         y: 801
         width: 19
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_115
@@ -1654,8 +1657,8 @@ TextureImporter:
         y: 801
         width: 23
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_116
@@ -1665,8 +1668,8 @@ TextureImporter:
         y: 801
         width: 29
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_117
@@ -1676,8 +1679,8 @@ TextureImporter:
         y: 801
         width: 23
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_118
@@ -1687,8 +1690,8 @@ TextureImporter:
         y: 802
         width: 22
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_119
@@ -1698,8 +1701,8 @@ TextureImporter:
         y: 800
         width: 24
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_120
@@ -1709,8 +1712,8 @@ TextureImporter:
         y: 800
         width: 25
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_121
@@ -1720,8 +1723,8 @@ TextureImporter:
         y: 800
         width: 25
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_122
@@ -1731,8 +1734,8 @@ TextureImporter:
         y: 800
         width: 24
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_123
@@ -1742,8 +1745,8 @@ TextureImporter:
         y: 802
         width: 22
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_124
@@ -1753,8 +1756,8 @@ TextureImporter:
         y: 801
         width: 23
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_125
@@ -1764,8 +1767,8 @@ TextureImporter:
         y: 751
         width: 25
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_126
@@ -1775,8 +1778,8 @@ TextureImporter:
         y: 751
         width: 29
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_127
@@ -1786,8 +1789,8 @@ TextureImporter:
         y: 751
         width: 31
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_128
@@ -1797,8 +1800,8 @@ TextureImporter:
         y: 751
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_129
@@ -1808,8 +1811,8 @@ TextureImporter:
         y: 752
         width: 25
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_130
@@ -1819,8 +1822,8 @@ TextureImporter:
         y: 753
         width: 23
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_131
@@ -1830,8 +1833,8 @@ TextureImporter:
         y: 750
         width: 23
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_132
@@ -1841,8 +1844,8 @@ TextureImporter:
         y: 749
         width: 24
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_133
@@ -1852,8 +1855,8 @@ TextureImporter:
         y: 749
         width: 24
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_134
@@ -1863,8 +1866,8 @@ TextureImporter:
         y: 750
         width: 23
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_135
@@ -1874,8 +1877,8 @@ TextureImporter:
         y: 753
         width: 23
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_136
@@ -1885,8 +1888,8 @@ TextureImporter:
         y: 752
         width: 25
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_137
@@ -1896,19 +1899,19 @@ TextureImporter:
         y: 701
         width: 35
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 8.5, y: 17.5}
-        - {x: -15.5, y: 17.5}
-        - {x: -17.5, y: 16.5}
-        - {x: -17.5, y: -10.5}
-        - {x: -14.5, y: -17.5}
-        - {x: 5.5, y: -17.5}
-        - {x: 17.5, y: -12.5}
-        - {x: 17.5, y: -2.5}
-        - {x: 15.5, y: -0.5}
+      - - {x: 8.5, y: 35}
+        - {x: -15.5, y: 35}
+        - {x: -17.5, y: 34}
+        - {x: -17.5, y: 7}
+        - {x: -14.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 17.5, y: 5}
+        - {x: 17.5, y: 15}
+        - {x: 15.5, y: 17}
     - name: samus-fusion_sheet (1)_138
       rect:
         serializedVersion: 2
@@ -1916,18 +1919,18 @@ TextureImporter:
         y: 701
         width: 32
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 13, y: 17.5}
-        - {x: -12, y: 17.5}
-        - {x: -16, y: 16.5}
-        - {x: -16, y: -6.5}
-        - {x: -9, y: -17.5}
-        - {x: 16, y: -17.5}
-        - {x: 16, y: 3.5}
-        - {x: 13, y: 16.5}
+      - - {x: 13, y: 35}
+        - {x: -12, y: 35}
+        - {x: -16, y: 34}
+        - {x: -16, y: 11}
+        - {x: -9, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 21}
+        - {x: 13, y: 34}
     - name: samus-fusion_sheet (1)_139
       rect:
         serializedVersion: 2
@@ -1935,8 +1938,8 @@ TextureImporter:
         y: 700
         width: 28
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_140
@@ -1946,8 +1949,8 @@ TextureImporter:
         y: 701
         width: 25
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_141
@@ -1957,8 +1960,8 @@ TextureImporter:
         y: 701
         width: 25
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_142
@@ -1968,8 +1971,8 @@ TextureImporter:
         y: 700
         width: 28
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_143
@@ -1979,18 +1982,18 @@ TextureImporter:
         y: 701
         width: 32
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8, y: 17.5}
-        - {x: -13, y: 15.5}
-        - {x: -16, y: 4.5}
-        - {x: -16, y: -17.5}
-        - {x: 10, y: -17.5}
-        - {x: 16, y: -2.5}
-        - {x: 16, y: 13.5}
-        - {x: 12, y: 17.5}
+      - - {x: -8, y: 35}
+        - {x: -13, y: 33}
+        - {x: -16, y: 22}
+        - {x: -16, y: 0}
+        - {x: 10, y: 0}
+        - {x: 16, y: 15}
+        - {x: 16, y: 31}
+        - {x: 12, y: 35}
     - name: samus-fusion_sheet (1)_144
       rect:
         serializedVersion: 2
@@ -1998,18 +2001,18 @@ TextureImporter:
         y: 701
         width: 35
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8.5, y: 17.5}
-        - {x: -17.5, y: 3.5}
-        - {x: -17.5, y: -14.5}
-        - {x: -10.5, y: -17.5}
-        - {x: 16.5, y: -17.5}
-        - {x: 17.5, y: -15.5}
-        - {x: 17.5, y: 16.5}
-        - {x: 14.5, y: 17.5}
+      - - {x: -8.5, y: 35}
+        - {x: -17.5, y: 21}
+        - {x: -17.5, y: 3}
+        - {x: -10.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 17.5, y: 2}
+        - {x: 17.5, y: 34}
+        - {x: 14.5, y: 35}
     - name: samus-fusion_sheet (1)_145
       rect:
         serializedVersion: 2
@@ -2017,8 +2020,8 @@ TextureImporter:
         y: 703
         width: 23
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_146
@@ -2028,8 +2031,8 @@ TextureImporter:
         y: 702
         width: 20
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_147
@@ -2039,8 +2042,8 @@ TextureImporter:
         y: 702
         width: 17
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_148
@@ -2050,8 +2053,8 @@ TextureImporter:
         y: 701
         width: 20
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_149
@@ -2061,8 +2064,8 @@ TextureImporter:
         y: 701
         width: 17
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_150
@@ -2072,8 +2075,8 @@ TextureImporter:
         y: 702
         width: 22
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_151
@@ -2083,8 +2086,8 @@ TextureImporter:
         y: 702
         width: 17
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_152
@@ -2094,8 +2097,8 @@ TextureImporter:
         y: 703
         width: 21
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_153
@@ -2105,18 +2108,18 @@ TextureImporter:
         y: 651
         width: 33
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 5.5, y: 17.5}
-        - {x: -8.5, y: 17.5}
-        - {x: -16.5, y: 8.5}
-        - {x: -16.5, y: -1.5}
-        - {x: -11.5, y: -17.5}
-        - {x: 16.5, y: -17.5}
-        - {x: 16.5, y: -1.5}
-        - {x: 9.5, y: 14.5}
+      - - {x: 5.5, y: 35}
+        - {x: -8.5, y: 35}
+        - {x: -16.5, y: 26}
+        - {x: -16.5, y: 16}
+        - {x: -11.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 16}
+        - {x: 9.5, y: 32}
     - name: samus-fusion_sheet (1)_154
       rect:
         serializedVersion: 2
@@ -2124,8 +2127,8 @@ TextureImporter:
         y: 651
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_155
@@ -2135,8 +2138,8 @@ TextureImporter:
         y: 651
         width: 26
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_156
@@ -2146,8 +2149,8 @@ TextureImporter:
         y: 651
         width: 30
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_157
@@ -2157,8 +2160,8 @@ TextureImporter:
         y: 651
         width: 30
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_158
@@ -2168,8 +2171,8 @@ TextureImporter:
         y: 651
         width: 26
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_159
@@ -2179,8 +2182,8 @@ TextureImporter:
         y: 651
         width: 28
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_160
@@ -2190,17 +2193,17 @@ TextureImporter:
         y: 651
         width: 33
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9.5, y: 17.5}
-        - {x: -16.5, y: 6.5}
-        - {x: -16.5, y: -17.5}
-        - {x: 8.5, y: -17.5}
-        - {x: 16.5, y: -6.5}
-        - {x: 16.5, y: 11.5}
-        - {x: 9.5, y: 17.5}
+      - - {x: -9.5, y: 35}
+        - {x: -16.5, y: 24}
+        - {x: -16.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 16.5, y: 11}
+        - {x: 16.5, y: 29}
+        - {x: 9.5, y: 35}
     - name: samus-fusion_sheet (1)_161
       rect:
         serializedVersion: 2
@@ -2208,8 +2211,8 @@ TextureImporter:
         y: 653
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_162
@@ -2219,8 +2222,8 @@ TextureImporter:
         y: 652
         width: 30
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_163
@@ -2230,8 +2233,8 @@ TextureImporter:
         y: 657
         width: 26
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_164
@@ -2241,8 +2244,8 @@ TextureImporter:
         y: 654
         width: 20
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_165
@@ -2252,8 +2255,8 @@ TextureImporter:
         y: 654
         width: 20
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_166
@@ -2263,8 +2266,8 @@ TextureImporter:
         y: 657
         width: 26
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_167
@@ -2274,8 +2277,8 @@ TextureImporter:
         y: 652
         width: 30
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_168
@@ -2285,8 +2288,8 @@ TextureImporter:
         y: 653
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_169
@@ -2296,18 +2299,18 @@ TextureImporter:
         y: 601
         width: 32
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: -17.5}
-        - {x: 8, y: -17.5}
-        - {x: 16, y: -13.5}
-        - {x: 16, y: 7.5}
-        - {x: 13, y: 17.5}
-        - {x: -11, y: 17.5}
-        - {x: -16, y: 15.5}
-        - {x: -16, y: -6.5}
+      - - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 16, y: 4}
+        - {x: 16, y: 25}
+        - {x: 13, y: 35}
+        - {x: -11, y: 35}
+        - {x: -16, y: 33}
+        - {x: -16, y: 11}
     - name: samus-fusion_sheet (1)_170
       rect:
         serializedVersion: 2
@@ -2315,17 +2318,17 @@ TextureImporter:
         y: 601
         width: 36
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15, y: 17.5}
-        - {x: -18, y: 15.5}
-        - {x: -18, y: -17.5}
-        - {x: 16, y: -17.5}
-        - {x: 18, y: -13.5}
-        - {x: 18, y: 5.5}
-        - {x: 10, y: 17.5}
+      - - {x: -15, y: 35}
+        - {x: -18, y: 33}
+        - {x: -18, y: 0}
+        - {x: 16, y: 0}
+        - {x: 18, y: 4}
+        - {x: 18, y: 23}
+        - {x: 10, y: 35}
     - name: samus-fusion_sheet (1)_171
       rect:
         serializedVersion: 2
@@ -2333,18 +2336,18 @@ TextureImporter:
         y: 601
         width: 36
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -6, y: 17.5}
-        - {x: -11, y: 15.5}
-        - {x: -18, y: 3.5}
-        - {x: -18, y: -12.5}
-        - {x: -6, y: -17.5}
-        - {x: 18, y: -17.5}
-        - {x: 18, y: 15.5}
-        - {x: 16, y: 17.5}
+      - - {x: -6, y: 35}
+        - {x: -11, y: 33}
+        - {x: -18, y: 21}
+        - {x: -18, y: 5}
+        - {x: -6, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 33}
+        - {x: 16, y: 35}
     - name: samus-fusion_sheet (1)_172
       rect:
         serializedVersion: 2
@@ -2352,19 +2355,19 @@ TextureImporter:
         y: 601
         width: 32
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9, y: 17.5}
-        - {x: -11, y: 15.5}
-        - {x: -16, y: 3.5}
-        - {x: -16, y: -14.5}
-        - {x: -8, y: -17.5}
-        - {x: 11, y: -17.5}
-        - {x: 15, y: -12.5}
-        - {x: 16, y: -9.5}
-        - {x: 16, y: 17.5}
+      - - {x: -9, y: 35}
+        - {x: -11, y: 33}
+        - {x: -16, y: 21}
+        - {x: -16, y: 3}
+        - {x: -8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 15, y: 5}
+        - {x: 16, y: 8}
+        - {x: 16, y: 35}
     - name: samus-fusion_sheet (1)_173
       rect:
         serializedVersion: 2
@@ -2372,18 +2375,18 @@ TextureImporter:
         y: 600
         width: 34
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15, y: 18}
-        - {x: -17, y: 17}
-        - {x: -17, y: -7}
-        - {x: -8, y: -18}
-        - {x: 12, y: -18}
-        - {x: 17, y: -14}
-        - {x: 17, y: 16}
-        - {x: 12, y: 18}
+      - - {x: -15, y: 36}
+        - {x: -17, y: 35}
+        - {x: -17, y: 11}
+        - {x: -8, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 4}
+        - {x: 17, y: 34}
+        - {x: 12, y: 36}
     - name: samus-fusion_sheet (1)_174
       rect:
         serializedVersion: 2
@@ -2391,8 +2394,8 @@ TextureImporter:
         y: 604
         width: 30
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_175
@@ -2402,8 +2405,8 @@ TextureImporter:
         y: 604
         width: 29
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_176
@@ -2413,8 +2416,8 @@ TextureImporter:
         y: 603
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_177
@@ -2424,8 +2427,8 @@ TextureImporter:
         y: 603
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_178
@@ -2435,8 +2438,8 @@ TextureImporter:
         y: 604
         width: 29
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_179
@@ -2446,8 +2449,8 @@ TextureImporter:
         y: 604
         width: 30
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_180
@@ -2457,17 +2460,17 @@ TextureImporter:
         y: 600
         width: 34
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14, y: 18}
-        - {x: -17, y: 12}
-        - {x: -17, y: -14}
-        - {x: -13, y: -18}
-        - {x: 12, y: -18}
-        - {x: 17, y: -10}
-        - {x: 17, y: 18}
+      - - {x: -14, y: 36}
+        - {x: -17, y: 30}
+        - {x: -17, y: 4}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 36}
     - name: samus-fusion_sheet (1)_181
       rect:
         serializedVersion: 2
@@ -2475,18 +2478,18 @@ TextureImporter:
         y: 550
         width: 34
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 11, y: 10.5}
-        - {x: 3, y: 18.5}
-        - {x: -17, y: 18.5}
-        - {x: -17, y: -10.5}
-        - {x: -15, y: -18.5}
-        - {x: 17, y: -18.5}
-        - {x: 17, y: -3.5}
-        - {x: 15, y: -1.5}
+      - - {x: 11, y: 29}
+        - {x: 3, y: 37}
+        - {x: -17, y: 37}
+        - {x: -17, y: 8}
+        - {x: -15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 15}
+        - {x: 15, y: 17}
     - name: samus-fusion_sheet (1)_182
       rect:
         serializedVersion: 2
@@ -2494,8 +2497,8 @@ TextureImporter:
         y: 550
         width: 31
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_183
@@ -2505,8 +2508,8 @@ TextureImporter:
         y: 550
         width: 26
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_184
@@ -2516,8 +2519,8 @@ TextureImporter:
         y: 551
         width: 24
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_185
@@ -2527,8 +2530,8 @@ TextureImporter:
         y: 551
         width: 24
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_186
@@ -2538,8 +2541,8 @@ TextureImporter:
         y: 550
         width: 26
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_187
@@ -2549,8 +2552,8 @@ TextureImporter:
         y: 550
         width: 31
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_188
@@ -2560,18 +2563,18 @@ TextureImporter:
         y: 550
         width: 34
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11, y: 18.5}
-        - {x: -17, y: 17.5}
-        - {x: -17, y: -17.5}
-        - {x: -13, y: -18.5}
-        - {x: 12, y: -18.5}
-        - {x: 15, y: -12.5}
-        - {x: 17, y: 2.5}
-        - {x: 17, y: 18.5}
+      - - {x: -11, y: 37}
+        - {x: -17, y: 36}
+        - {x: -17, y: 1}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 15, y: 6}
+        - {x: 17, y: 21}
+        - {x: 17, y: 37}
     - name: samus-fusion_sheet (1)_189
       rect:
         serializedVersion: 2
@@ -2579,8 +2582,8 @@ TextureImporter:
         y: 553
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_190
@@ -2590,8 +2593,8 @@ TextureImporter:
         y: 552
         width: 30
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_191
@@ -2601,8 +2604,8 @@ TextureImporter:
         y: 552
         width: 30
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_192
@@ -2612,16 +2615,16 @@ TextureImporter:
         y: 550
         width: 34
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -17, y: 18}
-        - {x: -17, y: -14}
-        - {x: -9, y: -18}
-        - {x: 15, y: -18}
-        - {x: 17, y: -16}
-        - {x: 17, y: 18}
+      - - {x: -17, y: 36}
+        - {x: -17, y: 4}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 2}
+        - {x: 17, y: 36}
     - name: samus-fusion_sheet (1)_193
       rect:
         serializedVersion: 2
@@ -2629,18 +2632,18 @@ TextureImporter:
         y: 550
         width: 34
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14, y: 18}
-        - {x: -17, y: 13}
-        - {x: -17, y: -17}
-        - {x: -16, y: -18}
-        - {x: 8, y: -18}
-        - {x: 17, y: -10}
-        - {x: 17, y: 15}
-        - {x: 15, y: 18}
+      - - {x: -14, y: 36}
+        - {x: -17, y: 31}
+        - {x: -17, y: 1}
+        - {x: -16, y: 0}
+        - {x: 8, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 33}
+        - {x: 15, y: 36}
     - name: samus-fusion_sheet (1)_194
       rect:
         serializedVersion: 2
@@ -2648,8 +2651,8 @@ TextureImporter:
         y: 552
         width: 30
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_195
@@ -2659,8 +2662,8 @@ TextureImporter:
         y: 552
         width: 30
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_196
@@ -2670,8 +2673,8 @@ TextureImporter:
         y: 553
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_197
@@ -2681,15 +2684,15 @@ TextureImporter:
         y: 500
         width: 32
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 18.5}
-        - {x: -16, y: -5.5}
-        - {x: -12, y: -18.5}
-        - {x: 16, y: -18.5}
-        - {x: 16, y: 18.5}
+      - - {x: -16, y: 37}
+        - {x: -16, y: 13}
+        - {x: -12, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 37}
     - name: samus-fusion_sheet (1)_198
       rect:
         serializedVersion: 2
@@ -2697,8 +2700,8 @@ TextureImporter:
         y: 500
         width: 27
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_199
@@ -2708,8 +2711,8 @@ TextureImporter:
         y: 501
         width: 25
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_200
@@ -2719,8 +2722,8 @@ TextureImporter:
         y: 500
         width: 29
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_201
@@ -2730,8 +2733,8 @@ TextureImporter:
         y: 500
         width: 29
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_202
@@ -2741,8 +2744,8 @@ TextureImporter:
         y: 501
         width: 25
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_203
@@ -2752,8 +2755,8 @@ TextureImporter:
         y: 500
         width: 27
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_204
@@ -2763,17 +2766,17 @@ TextureImporter:
         y: 500
         width: 32
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -6, y: 18.5}
-        - {x: -16, y: 1.5}
-        - {x: -16, y: -18.5}
-        - {x: 0, y: -18.5}
-        - {x: 8, y: -16.5}
-        - {x: 16, y: 7.5}
-        - {x: 16, y: 18.5}
+      - - {x: -6, y: 37}
+        - {x: -16, y: 20}
+        - {x: -16, y: 0}
+        - {x: 0, y: 0}
+        - {x: 8, y: 2}
+        - {x: 16, y: 26}
+        - {x: 16, y: 37}
     - name: samus-fusion_sheet (1)_205
       rect:
         serializedVersion: 2
@@ -2781,8 +2784,8 @@ TextureImporter:
         y: 502
         width: 30
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_206
@@ -2792,8 +2795,8 @@ TextureImporter:
         y: 504
         width: 30
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_207
@@ -2803,8 +2806,8 @@ TextureImporter:
         y: 504
         width: 29
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_208
@@ -2814,8 +2817,8 @@ TextureImporter:
         y: 503
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_209
@@ -2825,8 +2828,8 @@ TextureImporter:
         y: 503
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_210
@@ -2836,8 +2839,8 @@ TextureImporter:
         y: 504
         width: 29
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_211
@@ -2847,8 +2850,8 @@ TextureImporter:
         y: 504
         width: 30
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_212
@@ -2858,8 +2861,8 @@ TextureImporter:
         y: 502
         width: 30
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_213
@@ -2869,8 +2872,8 @@ TextureImporter:
         y: 450
         width: 31
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_214
@@ -2880,17 +2883,17 @@ TextureImporter:
         y: 450
         width: 34
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 2, y: 18.5}
-        - {x: -17, y: 18.5}
-        - {x: -17, y: -18.5}
-        - {x: 4, y: -18.5}
-        - {x: 17, y: -13.5}
-        - {x: 17, y: 4.5}
-        - {x: 11, y: 14.5}
+      - - {x: 2, y: 37}
+        - {x: -17, y: 37}
+        - {x: -17, y: 0}
+        - {x: 4, y: 0}
+        - {x: 17, y: 5}
+        - {x: 17, y: 23}
+        - {x: 11, y: 33}
     - name: samus-fusion_sheet (1)_215
       rect:
         serializedVersion: 2
@@ -2898,18 +2901,18 @@ TextureImporter:
         y: 450
         width: 34
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -5, y: 18.5}
-        - {x: -17, y: 4.5}
-        - {x: -17, y: -12.5}
-        - {x: -15, y: -12.5}
-        - {x: -3, y: -18.5}
-        - {x: 15, y: -18.5}
-        - {x: 17, y: -14.5}
-        - {x: 17, y: 18.5}
+      - - {x: -5, y: 37}
+        - {x: -17, y: 23}
+        - {x: -17, y: 6}
+        - {x: -15, y: 6}
+        - {x: -3, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 4}
+        - {x: 17, y: 37}
     - name: samus-fusion_sheet (1)_216
       rect:
         serializedVersion: 2
@@ -2917,8 +2920,8 @@ TextureImporter:
         y: 450
         width: 31
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_217
@@ -2928,8 +2931,8 @@ TextureImporter:
         y: 449
         width: 18
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_218
@@ -2939,8 +2942,8 @@ TextureImporter:
         y: 449
         width: 18
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_219
@@ -2950,8 +2953,8 @@ TextureImporter:
         y: 450
         width: 19
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_220
@@ -2961,8 +2964,8 @@ TextureImporter:
         y: 448
         width: 19
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_221
@@ -2972,8 +2975,8 @@ TextureImporter:
         y: 450
         width: 17
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_222
@@ -2983,8 +2986,8 @@ TextureImporter:
         y: 451
         width: 18
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_223
@@ -2994,8 +2997,8 @@ TextureImporter:
         y: 449
         width: 18
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_224
@@ -3005,8 +3008,8 @@ TextureImporter:
         y: 448
         width: 18
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_225
@@ -3016,18 +3019,18 @@ TextureImporter:
         y: 401
         width: 33
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 5.5, y: 17.5}
-        - {x: -11.5, y: 17.5}
-        - {x: -16.5, y: 11.5}
-        - {x: -16.5, y: -17.5}
-        - {x: -3.5, y: -17.5}
-        - {x: -2.5, y: -16.5}
-        - {x: 16.5, y: -12.5}
-        - {x: 16.5, y: -0.5}
+      - - {x: 5.5, y: 35}
+        - {x: -11.5, y: 35}
+        - {x: -16.5, y: 29}
+        - {x: -16.5, y: 0}
+        - {x: -3.5, y: 0}
+        - {x: -2.5, y: 1}
+        - {x: 16.5, y: 5}
+        - {x: 16.5, y: 17}
     - name: samus-fusion_sheet (1)_226
       rect:
         serializedVersion: 2
@@ -3035,8 +3038,8 @@ TextureImporter:
         y: 401
         width: 30
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_227
@@ -3046,8 +3049,8 @@ TextureImporter:
         y: 401
         width: 27
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_228
@@ -3057,8 +3060,8 @@ TextureImporter:
         y: 401
         width: 24
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_229
@@ -3068,8 +3071,8 @@ TextureImporter:
         y: 401
         width: 24
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_230
@@ -3079,8 +3082,8 @@ TextureImporter:
         y: 401
         width: 27
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_231
@@ -3090,8 +3093,8 @@ TextureImporter:
         y: 401
         width: 30
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_232
@@ -3101,18 +3104,18 @@ TextureImporter:
         y: 401
         width: 33
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 10.5, y: 17.5}
-        - {x: -7.5, y: 17.5}
-        - {x: -16.5, y: 3.5}
-        - {x: -16.5, y: -14.5}
-        - {x: -8.5, y: -17.5}
-        - {x: 16.5, y: -17.5}
-        - {x: 16.5, y: 7.5}
-        - {x: 11.5, y: 16.5}
+      - - {x: 10.5, y: 35}
+        - {x: -7.5, y: 35}
+        - {x: -16.5, y: 21}
+        - {x: -16.5, y: 3}
+        - {x: -8.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 25}
+        - {x: 11.5, y: 34}
     - name: samus-fusion_sheet (1)_233
       rect:
         serializedVersion: 2
@@ -3120,8 +3123,8 @@ TextureImporter:
         y: 399
         width: 29
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_234
@@ -3131,8 +3134,8 @@ TextureImporter:
         y: 397
         width: 19
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_235
@@ -3142,8 +3145,8 @@ TextureImporter:
         y: 400
         width: 20
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_236
@@ -3153,8 +3156,8 @@ TextureImporter:
         y: 401
         width: 20
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_237
@@ -3164,8 +3167,8 @@ TextureImporter:
         y: 401
         width: 18
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_238
@@ -3175,8 +3178,8 @@ TextureImporter:
         y: 400
         width: 18
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_239
@@ -3186,8 +3189,8 @@ TextureImporter:
         y: 397
         width: 19
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_240
@@ -3197,8 +3200,8 @@ TextureImporter:
         y: 399
         width: 29
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_241
@@ -3208,8 +3211,8 @@ TextureImporter:
         y: 351
         width: 31
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_242
@@ -3219,8 +3222,8 @@ TextureImporter:
         y: 351
         width: 27
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_243
@@ -3230,8 +3233,8 @@ TextureImporter:
         y: 351
         width: 25
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_244
@@ -3241,8 +3244,8 @@ TextureImporter:
         y: 351
         width: 28
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_245
@@ -3252,8 +3255,8 @@ TextureImporter:
         y: 351
         width: 29
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_246
@@ -3263,8 +3266,8 @@ TextureImporter:
         y: 351
         width: 25
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_247
@@ -3274,8 +3277,8 @@ TextureImporter:
         y: 351
         width: 27
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_248
@@ -3285,8 +3288,8 @@ TextureImporter:
         y: 351
         width: 31
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_249
@@ -3296,8 +3299,8 @@ TextureImporter:
         y: 349
         width: 30
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_250
@@ -3307,17 +3310,17 @@ TextureImporter:
         y: 349
         width: 34
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -17, y: 7.5}
-        - {x: -17, y: -13.5}
-        - {x: 4, y: -19.5}
-        - {x: 17, y: -19.5}
-        - {x: 17, y: 19.5}
-        - {x: 7, y: 19.5}
-        - {x: 0, y: 16.5}
+      - - {x: -17, y: 27}
+        - {x: -17, y: 6}
+        - {x: 4, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 39}
+        - {x: 7, y: 39}
+        - {x: 0, y: 36}
     - name: samus-fusion_sheet (1)_251
       rect:
         serializedVersion: 2
@@ -3325,8 +3328,8 @@ TextureImporter:
         y: 349
         width: 21
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_252
@@ -3336,8 +3339,8 @@ TextureImporter:
         y: 349
         width: 18
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_253
@@ -3347,8 +3350,8 @@ TextureImporter:
         y: 349
         width: 19
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_254
@@ -3358,8 +3361,8 @@ TextureImporter:
         y: 349
         width: 19
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_255
@@ -3369,16 +3372,16 @@ TextureImporter:
         y: 349
         width: 33
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16.5, y: 19}
-        - {x: -16.5, y: -19}
-        - {x: 6.5, y: -19}
-        - {x: 16.5, y: -4}
-        - {x: 16.5, y: 14}
-        - {x: -0.5, y: 19}
+      - - {x: -16.5, y: 38}
+        - {x: -16.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 16.5, y: 15}
+        - {x: 16.5, y: 33}
+        - {x: -0.5, y: 38}
     - name: samus-fusion_sheet (1)_256
       rect:
         serializedVersion: 2
@@ -3386,8 +3389,8 @@ TextureImporter:
         y: 349
         width: 30
         height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_257
@@ -3397,8 +3400,8 @@ TextureImporter:
         y: 301
         width: 30
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_258
@@ -3408,17 +3411,17 @@ TextureImporter:
         y: 301
         width: 34
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 17.5}
-        - {x: -17, y: 13.5}
-        - {x: -17, y: -14.5}
-        - {x: -15, y: -17.5}
-        - {x: 17, y: -17.5}
-        - {x: 17, y: 9.5}
-        - {x: 13, y: 17.5}
+      - - {x: -16, y: 35}
+        - {x: -17, y: 31}
+        - {x: -17, y: 3}
+        - {x: -15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 27}
+        - {x: 13, y: 35}
     - name: samus-fusion_sheet (1)_259
       rect:
         serializedVersion: 2
@@ -3426,17 +3429,17 @@ TextureImporter:
         y: 301
         width: 34
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -17, y: -11.5}
-        - {x: -15, y: -11.5}
-        - {x: -3, y: -17.5}
-        - {x: 17, y: -17.5}
-        - {x: 17, y: 17.5}
-        - {x: -6, y: 17.5}
-        - {x: -17, y: 4.5}
+      - - {x: -17, y: 6}
+        - {x: -15, y: 6}
+        - {x: -3, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 35}
+        - {x: -6, y: 35}
+        - {x: -17, y: 22}
     - name: samus-fusion_sheet (1)_260
       rect:
         serializedVersion: 2
@@ -3444,8 +3447,8 @@ TextureImporter:
         y: 301
         width: 31
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_261
@@ -3455,8 +3458,8 @@ TextureImporter:
         y: 295
         width: 16
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_262
@@ -3466,8 +3469,8 @@ TextureImporter:
         y: 295
         width: 20
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_263
@@ -3477,8 +3480,8 @@ TextureImporter:
         y: 295
         width: 22
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_264
@@ -3488,8 +3491,8 @@ TextureImporter:
         y: 295
         width: 23
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_265
@@ -3499,8 +3502,8 @@ TextureImporter:
         y: 295
         width: 21
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_266
@@ -3510,8 +3513,8 @@ TextureImporter:
         y: 295
         width: 14
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_267
@@ -3521,8 +3524,8 @@ TextureImporter:
         y: 255
         width: 26
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_268
@@ -3532,8 +3535,8 @@ TextureImporter:
         y: 255
         width: 26
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_269
@@ -3543,8 +3546,8 @@ TextureImporter:
         y: 253
         width: 26
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_270
@@ -3554,8 +3557,8 @@ TextureImporter:
         y: 253
         width: 25
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_271
@@ -3565,8 +3568,8 @@ TextureImporter:
         y: 256
         width: 27
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_272
@@ -3576,8 +3579,8 @@ TextureImporter:
         y: 256
         width: 27
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_273
@@ -3587,8 +3590,8 @@ TextureImporter:
         y: 246
         width: 19
         height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_274
@@ -3598,8 +3601,8 @@ TextureImporter:
         y: 245
         width: 21
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_275
@@ -3609,8 +3612,8 @@ TextureImporter:
         y: 245
         width: 24
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_276
@@ -3620,8 +3623,8 @@ TextureImporter:
         y: 245
         width: 14
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_277
@@ -3631,8 +3634,8 @@ TextureImporter:
         y: 245
         width: 13
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_278
@@ -3642,8 +3645,8 @@ TextureImporter:
         y: 245
         width: 25
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_279
@@ -3653,8 +3656,8 @@ TextureImporter:
         y: 245
         width: 24
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_280
@@ -3664,8 +3667,8 @@ TextureImporter:
         y: 245
         width: 21
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_281
@@ -3675,8 +3678,8 @@ TextureImporter:
         y: 205
         width: 22
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_282
@@ -3686,8 +3689,8 @@ TextureImporter:
         y: 205
         width: 18
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_283
@@ -3697,8 +3700,8 @@ TextureImporter:
         y: 203
         width: 22
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_284
@@ -3708,8 +3711,8 @@ TextureImporter:
         y: 203
         width: 19
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_285
@@ -3719,8 +3722,8 @@ TextureImporter:
         y: 206
         width: 23
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_286
@@ -3730,8 +3733,8 @@ TextureImporter:
         y: 206
         width: 18
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_287
@@ -3741,8 +3744,8 @@ TextureImporter:
         y: 195
         width: 22
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_288
@@ -3752,8 +3755,8 @@ TextureImporter:
         y: 195
         width: 24
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_289
@@ -3763,8 +3766,8 @@ TextureImporter:
         y: 195
         width: 20
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_290
@@ -3774,8 +3777,8 @@ TextureImporter:
         y: 195
         width: 15
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_291
@@ -3785,8 +3788,8 @@ TextureImporter:
         y: 195
         width: 18
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_292
@@ -3796,8 +3799,8 @@ TextureImporter:
         y: 195
         width: 14
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_293
@@ -3807,8 +3810,8 @@ TextureImporter:
         y: 195
         width: 22
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_294
@@ -3818,8 +3821,8 @@ TextureImporter:
         y: 195
         width: 20
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_295
@@ -3829,8 +3832,8 @@ TextureImporter:
         y: 159
         width: 19
         height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_296
@@ -3840,8 +3843,8 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_297
@@ -3851,8 +3854,8 @@ TextureImporter:
         y: 159
         width: 19
         height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_298
@@ -3862,8 +3865,8 @@ TextureImporter:
         y: 159
         width: 19
         height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_299
@@ -3873,8 +3876,8 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_300
@@ -3884,8 +3887,8 @@ TextureImporter:
         y: 159
         width: 19
         height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_301
@@ -3895,8 +3898,8 @@ TextureImporter:
         y: 146
         width: 15
         height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_302
@@ -3906,8 +3909,8 @@ TextureImporter:
         y: 145
         width: 19
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_303
@@ -3917,8 +3920,8 @@ TextureImporter:
         y: 146
         width: 19
         height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_304
@@ -3928,8 +3931,8 @@ TextureImporter:
         y: 146
         width: 14
         height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_305
@@ -3939,8 +3942,8 @@ TextureImporter:
         y: 110
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_306
@@ -3950,8 +3953,8 @@ TextureImporter:
         y: 110
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_307
@@ -3961,8 +3964,8 @@ TextureImporter:
         y: 110
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_308
@@ -3972,8 +3975,8 @@ TextureImporter:
         y: 110
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_309
@@ -3983,8 +3986,8 @@ TextureImporter:
         y: 110
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_310
@@ -3994,8 +3997,8 @@ TextureImporter:
         y: 110
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_311
@@ -4005,8 +4008,8 @@ TextureImporter:
         y: 110
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_312
@@ -4016,8 +4019,8 @@ TextureImporter:
         y: 110
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_313
@@ -4027,8 +4030,8 @@ TextureImporter:
         y: 99
         width: 17
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_314
@@ -4038,8 +4041,8 @@ TextureImporter:
         y: 96
         width: 15
         height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_315
@@ -4049,8 +4052,8 @@ TextureImporter:
         y: 96
         width: 15
         height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_316
@@ -4060,8 +4063,8 @@ TextureImporter:
         y: 96
         width: 15
         height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_317
@@ -4071,8 +4074,8 @@ TextureImporter:
         y: 95
         width: 16
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_318
@@ -4082,8 +4085,8 @@ TextureImporter:
         y: 95
         width: 16
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_319
@@ -4093,8 +4096,8 @@ TextureImporter:
         y: 95
         width: 16
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_320
@@ -4104,8 +4107,8 @@ TextureImporter:
         y: 98
         width: 18
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_321
@@ -4115,8 +4118,8 @@ TextureImporter:
         y: 55
         width: 18
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_322
@@ -4126,8 +4129,8 @@ TextureImporter:
         y: 53
         width: 19
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_323
@@ -4137,8 +4140,8 @@ TextureImporter:
         y: 52
         width: 17
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_324
@@ -4148,8 +4151,8 @@ TextureImporter:
         y: 51
         width: 18
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_325
@@ -4159,8 +4162,8 @@ TextureImporter:
         y: 51
         width: 18
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_326
@@ -4170,8 +4173,8 @@ TextureImporter:
         y: 52
         width: 19
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_327
@@ -4181,8 +4184,8 @@ TextureImporter:
         y: 53
         width: 19
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_328
@@ -4192,8 +4195,8 @@ TextureImporter:
         y: 55
         width: 18
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_329
@@ -4203,8 +4206,8 @@ TextureImporter:
         y: 0
         width: 19
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_330
@@ -4214,8 +4217,8 @@ TextureImporter:
         y: 2
         width: 26
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_331
@@ -4225,8 +4228,8 @@ TextureImporter:
         y: 4
         width: 24
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_332
@@ -4236,8 +4239,8 @@ TextureImporter:
         y: 4
         width: 22
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_333
@@ -4247,8 +4250,8 @@ TextureImporter:
         y: 2
         width: 26
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: samus-fusion_sheet (1)_334
@@ -4258,8 +4261,8 @@ TextureImporter:
         y: 0
         width: 20
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     outline: []
