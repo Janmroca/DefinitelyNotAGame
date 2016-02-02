@@ -14,15 +14,15 @@ private var CurrentJumpSpeed : float = 0.0f;
 private var ground : GameObject = null;
 private var lookingAt: float = 0.0f;
 private var crouching : float = 0.0f;
-private var isRolling : boolean;
+private var isRolling : float;
 
 function Start () {
 	rb = GetComponent.<Rigidbody2D>();
 	CurrentSpeed = initialSpeed;
 	lookingAt = 0;
 	crouching = 0;
-	isRolling = false;
-	animator = GameObject.Find("Samus Graphics").GetComponent.<Animator>();
+	isRolling = 0;
+	animator = transform.GetChild(2).gameObject.GetComponent.<Animator>();
 
 }
 
@@ -30,6 +30,8 @@ function FixedUpdate () {
 	CurrentJumpSpeed -= decreaseJump;
 	if(CurrentJumpSpeed > 0.0f) rb.AddForce(Vector2.up * CurrentJumpSpeed);
 }
+
+
 
 function Update () {
 
@@ -40,11 +42,12 @@ function Update () {
 	}
 
 	//Mirar arriba
-	if (Input.GetKeyDown(KeyCode.UpArrow) && isRolling) {
-		isRolling = false;
+	if (Input.GetKeyDown(KeyCode.UpArrow) && isRolling == 1) {
+		isRolling = 0;
 		crouching = 1;
 	} else if (Input.GetKeyDown(KeyCode.UpArrow) && crouching == 1) {
-		crouching = 0;
+		if (lookingAt == 0.5 || lookingAt == 1.5) crouching = 0;
+		else if (lookingAt == 0.25 || lookingAt == 1.25) lookingAt += 0.25;
 	} else if (Input.GetKey(KeyCode.UpArrow)) {
 		if (lookingAt > 0 && lookingAt <= 1) lookingAt = 0.75;
 		if (lookingAt > 1 && lookingAt <= 2) lookingAt = 1.75;
@@ -57,18 +60,26 @@ function Update () {
 	if (Input.GetKey(KeyCode.LeftControl)) {
 		if (lookingAt > 0 && lookingAt <= 1) {
 			if (lookingAt != 0.25 && lookingAt != 0.5) lookingAt = 0.5;
-			else if (Input.GetKeyDown(KeyCode.DownArrow)) lookingAt = 0.25;
-			else if (Input.GetKeyDown(KeyCode.UpArrow)) lookingAt = 0.5;
+			else if (Input.GetKeyDown(KeyCode.DownArrow)) {
+				if (lookingAt == 0.25) {
+					if (crouching) isRolling = 1;
+					else crouching = 1;
+				} else lookingAt = 0.25;
+			} else if (Input.GetKeyDown(KeyCode.UpArrow)) lookingAt = 0.5;
 		} else if (lookingAt > 1 && lookingAt <= 2) {
 			if (lookingAt != 1.25 && lookingAt != 1.5) lookingAt = 1.5;
-			else if (Input.GetKey(KeyCode.DownArrow)) lookingAt = 1.25;
-			else if (Input.GetKeyDown(KeyCode.UpArrow)) lookingAt = 1.5;
+			else if (Input.GetKeyDown(KeyCode.DownArrow)) {
+				if (lookingAt == 1.25) {
+					if (crouching) isRolling = 1;
+					else crouching = 1;
+				} else lookingAt = 1.25;
+			}else if (Input.GetKeyDown(KeyCode.UpArrow)) lookingAt = 1.5;
 		}
 	} else if (Input.GetKeyUp(KeyCode.LeftControl)) {
 		if (lookingAt == 0.5 || lookingAt == 0.25) lookingAt = 1;
 		else if (lookingAt == 1.5 || lookingAt == 1.25) lookingAt = 2;
 	} else if (Input.GetKeyDown(KeyCode.DownArrow) && crouching) {
-		isRolling = true;
+		isRolling = 1;
 		crouching = 1;
 	} else if (Input.GetKeyDown(KeyCode.DownArrow)) {
 		if (lookingAt != 0) crouching = 1;
@@ -119,6 +130,7 @@ function Update () {
 		CurrentSpeed = 0.0f;
 		rb.velocity.x = 0.0f;
 	}
+
 	//SALTO
 	if(Input.GetButtonDown("Jump")) {
 		if(IsGrounded()) {
@@ -133,10 +145,11 @@ function Update () {
 	}
 
 	animator.SetFloat("Direction", rb.velocity.x*rb.velocity.x);
-	animator.SetFloat("lookingAt", lookingAt);
 	animator.SetFloat("Crouching", crouching);
 	animator.SetBool("isGrounded", IsGrounded());
-	animator.SetBool("isRolling", isRolling);
+	animator.SetFloat("isRolling", isRolling);
+	animator.SetFloat("lookingAt", lookingAt);
+	
 
 }
 
