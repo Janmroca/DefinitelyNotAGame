@@ -49,9 +49,10 @@ GameObject:
   - 50: {fileID: 5050540}
   - 61: {fileID: 6147178}
   - 58: {fileID: 5887066}
+  - 114: {fileID: 11439342}
   m_Layer: 0
   m_Name: Samus Physics
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -136,7 +137,7 @@ Rigidbody2D:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 194862}
   m_UseAutoMass: 0
-  m_Mass: 9.599999
+  m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -204,6 +205,19 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11439342
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 194862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: facc89ca5493d164b8180a8efabd29f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 0}
+  bulletSpeed: 15
 --- !u!114 &11465082
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -218,7 +232,7 @@ MonoBehaviour:
   initialSpeed: 100
   incrementSpeed: 10
   maxSpeed: 100
-  JumpSpeed: 300
+  JumpSpeed: 40
   decreaseJump: 1.5
   player: {fileID: 467118}
   animator: {fileID: 9518216}
