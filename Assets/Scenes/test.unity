@@ -421,30 +421,18 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 470042, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 5050540, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
-      propertyPath: m_Mass
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 11439342, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
+    - target: {fileID: 11417406, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
       propertyPath: projectile
       value: 
       objectReference: {fileID: 39128990}
-    - target: {fileID: 11439342, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
-      propertyPath: bulletSpeed
-      value: 15
+    - target: {fileID: 5887066, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 11465082, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
-      propertyPath: JumpSpeed
-      value: 40
-      objectReference: {fileID: 0}
-    - target: {fileID: 194862, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 11439342, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
-      propertyPath: x
+    - target: {fileID: 5887066, guid: d21be4fad80660246b46d1f7bc51ab16, type: 2}
+      propertyPath: m_UsedByEffector
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []

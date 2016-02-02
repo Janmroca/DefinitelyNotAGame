@@ -20,6 +20,22 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &181606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 464450}
+  - 114: {fileID: 11417406}
+  m_Layer: 0
+  m_Name: Shooting
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &194828
 GameObject:
   m_ObjectHideFlags: 0
@@ -49,7 +65,6 @@ GameObject:
   - 50: {fileID: 5050540}
   - 61: {fileID: 6147178}
   - 58: {fileID: 5887066}
-  - 114: {fileID: 11439342}
   m_Layer: 0
   m_Name: Samus Physics
   m_TagString: Player
@@ -68,6 +83,18 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 470042}
+  m_RootOrder: 1
+--- !u!4 &464450
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 181606}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.071, z: -2}
+  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_Children: []
+  m_Father: {fileID: 470042}
   m_RootOrder: 0
 --- !u!4 &467118
 Transform:
@@ -80,7 +107,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 470042}
-  m_RootOrder: 1
+  m_RootOrder: 2
 --- !u!4 &470042
 Transform:
   m_ObjectHideFlags: 1
@@ -91,6 +118,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 2.12, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_Children:
+  - {fileID: 464450}
   - {fileID: 420218}
   - {fileID: 467118}
   m_Father: {fileID: 0}
@@ -205,12 +233,12 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11439342
+--- !u!114 &11417406
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 194862}
+  m_GameObject: {fileID: 181606}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: facc89ca5493d164b8180a8efabd29f2, type: 3}
@@ -235,7 +263,6 @@ MonoBehaviour:
   JumpSpeed: 40
   decreaseJump: 1.5
   player: {fileID: 467118}
-  animator: {fileID: 9518216}
 --- !u!114 &11479012
 MonoBehaviour:
   m_ObjectHideFlags: 1
