@@ -10,10 +10,12 @@ private var rb : Rigidbody2D;
 private var CurrentSpeed : float = 0.0f;
 private var CurrentJumpSpeed : float = 0.0f;
 private var ground : GameObject = null;
+private var animator : Animator;
 
 function Start () {
 	rb = GetComponent.<Rigidbody2D>();
 	CurrentSpeed = initialSpeed;
+	animator = GetComponent.<Animator>();
 }
 
 function FixedUpdate () {
@@ -60,6 +62,9 @@ function Update () {
 		if(IsGrounded()) CurrentJumpSpeed = JumpSpeed;
 	}
 	else if(Input.GetButtonUp("Jump")) CurrentJumpSpeed = 0;
+
+	animator.SetFloat("Direction", rb.velocity.x);
+
 }
 
 function OnCollisionEnter2D(col : Collision2D) {
