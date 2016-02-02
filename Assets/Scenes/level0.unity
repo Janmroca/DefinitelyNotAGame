@@ -152,6 +152,10 @@ Prefab:
       propertyPath: initialSpeed
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 9596176, guid: 5fcedcb99393abf41852fb484564dbeb, type: 2}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5fcedcb99393abf41852fb484564dbeb, type: 2}
   m_IsPrefabParent: 0

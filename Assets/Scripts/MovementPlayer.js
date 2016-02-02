@@ -24,6 +24,8 @@ function FixedUpdate () {
 }
 
 function Update () {
+	Debug.Log(transform.forward);
+
 	//No Deslizamiento
 	if(Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.RightArrow) ||
 	   Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.LeftArrow)) {
