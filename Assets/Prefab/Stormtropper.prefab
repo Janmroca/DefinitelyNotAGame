@@ -29,8 +29,6 @@ GameObject:
   - 4: {fileID: 433702}
   - 114: {fileID: 11412472}
   - 114: {fileID: 11442062}
-  - 114: {fileID: 11461776}
-  - 114: {fileID: 11437712}
   m_Layer: 2
   m_Name: Shooting
   m_TagString: Untagged
@@ -75,7 +73,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_IsKinematic: 0
+  m_IsKinematic: 1
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -119,13 +117,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 139538}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 60f8a5b3a36cd7044840cb102272b913, type: 3}
+  m_Script: {fileID: 11500000, guid: 6a4c1915efb9da84f872c133c2a8ab5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectile: {fileID: 0}
-  bulletSpeed: 15
-  rateOfFire: 2
---- !u!114 &11437712
+  moveSpeed: 5
+  maxX: 20
+  minX: 1
+--- !u!114 &11442062
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -137,32 +135,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectile: {fileID: 0}
-  bulletSpeed: 0
-  rateOfFire: 0
---- !u!114 &11442062
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 139538}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbbbcdffc2d2c9d42a7a9fc8b5adb18f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &11461776
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 139538}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6a4c1915efb9da84f872c133c2a8ab5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 0
-  rightX: 0
+  bulletSpeed: 15
+  rateOfFire: 2
 --- !u!212 &21239186
 SpriteRenderer:
   m_ObjectHideFlags: 1
