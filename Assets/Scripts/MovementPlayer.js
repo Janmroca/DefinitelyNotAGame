@@ -6,7 +6,7 @@ public var maxSpeed : float = 0.0f;
 public var JumpSpeed : float = 0.0f;
 public var decreaseJump : float = 0.0f;
 public var player : Transform;
-public var animator : Animator;
+private var animator : Animator;
 
 private var rb : Rigidbody2D;
 private var CurrentSpeed : float = 0.0f;
@@ -22,6 +22,8 @@ function Start () {
 	lookingAt = 0;
 	crouching = 0;
 	isRolling = false;
+	animator = GameObject.Find("Samus Graphics").GetComponent.<Animator>();
+
 }
 
 function FixedUpdate () {
