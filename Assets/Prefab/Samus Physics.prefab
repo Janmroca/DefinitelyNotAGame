@@ -1,25 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &101510
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
-  m_Component:
-  - 4: {fileID: 420218}
-  - 20: {fileID: 2081916}
-  - 92: {fileID: 9228358}
-  - 124: {fileID: 12437228}
-  - 81: {fileID: 8104844}
-  - 114: {fileID: 11479012}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
 --- !u!1 &181606
 GameObject:
   m_ObjectHideFlags: 0
@@ -65,7 +45,6 @@ GameObject:
   - 50: {fileID: 5050540}
   - 61: {fileID: 6147178}
   - 58: {fileID: 5887066}
-  - 114: {fileID: 11483484}
   m_Layer: 0
   m_Name: Samus Physics
   m_TagString: Player
@@ -73,18 +52,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &420218
-Transform:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 101510}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.35, z: -6}
-  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
-  m_Children: []
-  m_Father: {fileID: 470042}
-  m_RootOrder: 1
 --- !u!4 &464450
 Transform:
   m_ObjectHideFlags: 1
@@ -108,7 +75,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 470042}
-  m_RootOrder: 2
+  m_RootOrder: 1
 --- !u!4 &470042
 Transform:
   m_ObjectHideFlags: 1
@@ -120,44 +87,9 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 77}
   m_Children:
   - {fileID: 464450}
-  - {fileID: 420218}
   - {fileID: 467118}
   m_Father: {fileID: 0}
   m_RootOrder: 0
---- !u!20 &2081916
-Camera:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 101510}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0.019607844}
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 1
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
-  m_StereoMirrorMode: 0
 --- !u!50 &5050540
 Rigidbody2D:
   serializedVersion: 2
@@ -203,20 +135,6 @@ BoxCollider2D:
   m_Offset: {x: 0, y: -0.07}
   serializedVersion: 2
   m_Size: {x: 0.24, y: 0.3}
---- !u!81 &8104844
-AudioListener:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 101510}
-  m_Enabled: 1
---- !u!92 &9228358
-Behaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 101510}
-  m_Enabled: 1
 --- !u!95 &9518216
 Animator:
   serializedVersion: 3
@@ -247,6 +165,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 5031204, guid: e01bb316ce8179743a3911a929090441, type: 2}
   bulletSpeed: 15
+  shootSpawn: {fileID: 159116, guid: 2731fcd8362c9704e97bf4a72dd3d484, type: 2}
 --- !u!114 &11465082
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -264,37 +183,6 @@ MonoBehaviour:
   JumpSpeed: 40
   decreaseJump: 1.5
   player: {fileID: 467118}
---- !u!114 &11479012
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 101510}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9e3c25b5dd60b0d44b8ff5109b53d55e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 194862}
---- !u!114 &11483484
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 194862}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7bf268ab08e2ddc40a1bd04c6e6ec883, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Life: {fileID: 0}
---- !u!124 &12437228
-Behaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 101510}
-  m_Enabled: 1
 --- !u!212 &21244142
 SpriteRenderer:
   m_ObjectHideFlags: 1
