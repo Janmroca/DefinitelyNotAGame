@@ -13,8 +13,7 @@ function Start () {
 }
 
 function Update () {
-	Debug.Log(child.transform.rotation);
-
+	
 	if (player.transform.position.x - transform.position.x > 1) {
 		transform.position.x += 0.05;
 		animator.SetFloat("dir", 1);
