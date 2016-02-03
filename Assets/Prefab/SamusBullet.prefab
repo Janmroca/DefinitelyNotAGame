@@ -12,7 +12,8 @@ GameObject:
   - 23: {fileID: 2362294}
   - 61: {fileID: 6123774}
   - 50: {fileID: 5031204}
-  - 114: {fileID: 11428170}
+  - 114: {fileID: 11459752}
+  - 114: {fileID: 11419306}
   m_Layer: 0
   m_Name: SamusBullet
   m_TagString: Untagged
@@ -143,13 +144,26 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11428170
+--- !u!114 &11419306
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 144710}
   m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 582379a1909582d4c97bcd68d6aca067, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lifeTime: 0.45
+  explosion: {fileID: 191516, guid: c71aab24d96508142a9b06f8884ac54d, type: 2}
+--- !u!114 &11459752
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144710}
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 52b1de76034aff848a4b63b1edfaa68e, type: 3}
   m_Name: 
@@ -200,7 +214,11 @@ Prefab:
     - target: {fileID: 0}
       propertyPath: explosion
       value: 
-      objectReference: {fileID: 194336, guid: d2b225db3e6fc314e8ed6e38c934cdc2, type: 2}
+      objectReference: {fileID: 191516, guid: c71aab24d96508142a9b06f8884ac54d, type: 2}
+    - target: {fileID: 0}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 144710}
