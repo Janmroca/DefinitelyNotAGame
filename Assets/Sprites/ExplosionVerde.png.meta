@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 54bb83c17435e16499cb1a341d4dc608
+timeCreated: 1454535700
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ExplosionVerde_0
+    21300002: ExplosionVerde_1
+    21300004: ExplosionVerde_2
+    21300006: ExplosionVerde_3
+    21300008: ExplosionVerde_4
+    21300010: ExplosionVerde_5
+    21300012: ExplosionVerde_6
+    21300014: ExplosionVerde_7
+    21300016: ExplosionVerde_8
+    21300018: ExplosionVerde_9
+    21300020: ExplosionVerde_10
+    21300022: ExplosionVerde_11
+    21300024: ExplosionVerde_12
+    21300026: ExplosionVerde_13
+    21300028: ExplosionVerde_14
+    21300030: ExplosionVerde_15
+    21300032: ExplosionVerde_16
+    21300034: ExplosionVerde_17
+    21300036: ExplosionVerde_18
+    21300038: ExplosionVerde_19
+    21300040: ExplosionVerde_20
+    21300042: ExplosionVerde_21
+    21300044: ExplosionVerde_22
+    21300046: ExplosionVerde_23
+    21300048: ExplosionVerde_24
+    21300050: ExplosionVerde_25
+    21300052: ExplosionVerde_26
+    21300054: ExplosionVerde_27
+    21300056: ExplosionVerde_28
+    21300058: ExplosionVerde_29
+    21300060: ExplosionVerde_30
+    21300062: ExplosionVerde_31
+    21300064: ExplosionVerde_32
+    21300066: ExplosionVerde_33
+    21300068: ExplosionVerde_34
+    21300070: ExplosionVerde_35
+    21300072: ExplosionVerde_36
+    21300074: ExplosionVerde_37
+    21300076: ExplosionVerde_38
+    21300078: ExplosionVerde_39
+    21300080: ExplosionVerde_40
+    21300082: ExplosionVerde_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ExplosionVerde_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 228
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23}
+        - {x: -23, y: 22}
+        - {x: -23, y: -14}
+        - {x: -14, y: -23}
+        - {x: 16, y: -23}
+        - {x: 23, y: -20}
+        - {x: 23, y: 19}
+        - {x: 19, y: 23}
+    - name: ExplosionVerde_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 208
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 42.5}
+        - {x: -32, y: 42.5}
+        - {x: -43, y: 38.5}
+        - {x: -43, y: -23.5}
+        - {x: -25, y: -42.5}
+        - {x: 25, y: -42.5}
+        - {x: 32, y: -40.5}
+        - {x: 43, y: -26.5}
+        - {x: 43, y: 21.5}
+        - {x: 41, y: 30.5}
+    - name: ExplosionVerde_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 223
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 27}
+        - {x: -26.5, y: 21}
+        - {x: -26.5, y: -23}
+        - {x: -19.5, y: -27}
+        - {x: 19.5, y: -27}
+        - {x: 26.5, y: -18}
+        - {x: 26.5, y: 14}
+        - {x: 16.5, y: 27}
+    - name: ExplosionVerde_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 220
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 29.5}
+        - {x: -29, y: 28.5}
+        - {x: -29, y: -19.5}
+        - {x: -23, y: -29.5}
+        - {x: 18, y: -29.5}
+        - {x: 29, y: -25.5}
+        - {x: 29, y: 25.5}
+        - {x: 26, y: 29.5}
+    - name: ExplosionVerde_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 218
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 31.5}
+        - {x: -31.5, y: 30.5}
+        - {x: -31.5, y: -19.5}
+        - {x: -20.5, y: -31.5}
+        - {x: 17.5, y: -31.5}
+        - {x: 31.5, y: -21.5}
+        - {x: 31.5, y: 26.5}
+        - {x: 25.5, y: 31.5}
+    - name: ExplosionVerde_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 116
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 33.5}
+        - {x: -33.5, y: -30.5}
+        - {x: -29.5, y: -33.5}
+        - {x: 32.5, y: -33.5}
+        - {x: 33.5, y: -29.5}
+        - {x: 33.5, y: 29.5}
+        - {x: 23.5, y: 33.5}
+    - name: ExplosionVerde_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 113
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 36}
+        - {x: -36, y: -26}
+        - {x: -26, y: -35}
+        - {x: -22, y: -36}
+        - {x: 11, y: -36}
+        - {x: 22, y: -35}
+        - {x: 36, y: -27}
+        - {x: 36, y: 23}
+        - {x: 34, y: 36}
+    - name: ExplosionVerde_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 111
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 38.5}
+        - {x: -38, y: -38.5}
+        - {x: 34, y: -38.5}
+        - {x: 38, y: -27.5}
+        - {x: 38, y: 31.5}
+        - {x: 26, y: 38.5}
+    - name: ExplosionVerde_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 164
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 116
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 34}
+        - {x: -23, y: -34}
+        - {x: 20, y: -34}
+        - {x: 23, y: -23}
+        - {x: 23, y: 27}
+        - {x: 18, y: 34}
+    - name: ExplosionVerde_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 173
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 169
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 179
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 164
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 115
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 23.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -23.5}
+        - {x: 19, y: -23.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 23.5}
+    - name: ExplosionVerde_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 108
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 0.5}
+        - {x: 12, y: 20.5}
+        - {x: 10, y: 24.5}
+        - {x: -13, y: 24.5}
+        - {x: -19, y: 16.5}
+        - {x: -19, y: -14.5}
+        - {x: -18, y: -20.5}
+        - {x: -4, y: -24.5}
+        - {x: 19, y: -24.5}
+        - {x: 19, y: 2.5}
+        - {x: 18, y: 2.5}
+    - name: ExplosionVerde_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 106
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: -9.5}
+        - {x: -8, y: -22.5}
+        - {x: -4, y: -24.5}
+        - {x: 19, y: -24.5}
+        - {x: 19, y: 24.5}
+    - name: ExplosionVerde_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 84
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 85
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_23
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 80
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 74
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 64
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 56
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 32
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 18
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 14
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 14
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_38
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 16
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ExplosionVerde_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -108,7 +108,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 2
   destroyTime: 3
-  explosion: {fileID: 125970, guid: 4043b0f2873c273449a759faf59f8ac3, type: 2}
+  explosion: {fileID: 191516, guid: bcb955070ba1c044982e00ddd780fcba, type: 2}
   distance: 10
   life: 10
 --- !u!212 &21226242
@@ -163,7 +163,7 @@ Prefab:
     - target: {fileID: 0}
       propertyPath: explosion
       value: 
-      objectReference: {fileID: 125970, guid: 4043b0f2873c273449a759faf59f8ac3, type: 2}
+      objectReference: {fileID: 191516, guid: bcb955070ba1c044982e00ddd780fcba, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 120346}
