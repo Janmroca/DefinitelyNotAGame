@@ -10,7 +10,7 @@ GameObject:
   - 4: {fileID: 477512}
   - 212: {fileID: 21248104}
   - 95: {fileID: 9548920}
-  - 114: {fileID: 11419756}
+  - 114: {fileID: 11449194}
   m_Layer: 0
   m_Name: Navi
   m_TagString: Untagged
@@ -47,7 +47,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11419756
+--- !u!114 &11449194
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
