@@ -25,7 +25,5 @@
 -Stormtrooper
 
 //SAMUS
--WHEN SHOOT CHANGE RUN ANIMATION
--FACING ANIMATIONS
 -STOP ALL IF DIE OR OPENDOOR
 -> to backwards animation

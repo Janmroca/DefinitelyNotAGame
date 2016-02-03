@@ -22,13 +22,14 @@ function Start () {
 	lookingAt = 0;
 	crouching = 0;
 	isRolling = 0;
-	animator = transform.GetChild(2).gameObject.GetComponent.<Animator>();
+	animator = transform.GetChild(1).gameObject.GetComponent.<Animator>();
 
 }
 
 function FixedUpdate () {
 	CurrentJumpSpeed -= decreaseJump;
 	if(CurrentJumpSpeed > 0.0f) rb.AddForce(Vector2.up * CurrentJumpSpeed);
+	else animator.SetBool("isJumping", false);
 }
 
 
@@ -46,7 +47,7 @@ function Update () {
 		isRolling = 0;
 		crouching = 1;
 	} else if (Input.GetKeyDown(KeyCode.UpArrow) && crouching == 1) {
-		if (lookingAt == 0.5 || lookingAt == 1.5) crouching = 0;
+		if (lookingAt == 0.5 || lookingAt == 1.5 || lookingAt == 1 || lookingAt == 2) crouching = 0;
 		else if (lookingAt == 0.25 || lookingAt == 1.25) lookingAt += 0.25;
 	} else if (Input.GetKey(KeyCode.UpArrow)) {
 		if (lookingAt > 0 && lookingAt <= 1) lookingAt = 0.75;
@@ -57,7 +58,7 @@ function Update () {
 	}
 
 	//Apuntar diagonal
-	if (Input.GetKey(KeyCode.LeftControl)) {
+	if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.LeftControl)) {
 		if (lookingAt > 0 && lookingAt <= 1) {
 			if (lookingAt != 0.25 && lookingAt != 0.5) lookingAt = 0.5;
 			else if (Input.GetKeyDown(KeyCode.DownArrow)) {
@@ -134,8 +135,8 @@ function Update () {
 	//SALTO
 	if(Input.GetButtonDown("Jump")) {
 		if(IsGrounded()) {
-		animator.SetBool("isJumping", true);
-		CurrentJumpSpeed = JumpSpeed;
+			animator.SetBool("isJumping", true);
+			CurrentJumpSpeed = JumpSpeed;
 		}
 	}
 	else if(Input.GetButtonUp("Jump")) {

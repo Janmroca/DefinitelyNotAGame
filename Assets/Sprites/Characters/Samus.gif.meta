@@ -1,0 +1,4272 @@
+fileFormatVersion: 2
+guid: d987caa9c8c273544aabf84ad0bdc5d8
+timeCreated: 1454425020
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: samus-fusion_sheet (1)_0
+    21300002: samus-fusion_sheet (1)_1
+    21300004: samus-fusion_sheet (1)_2
+    21300006: samus-fusion_sheet (1)_3
+    21300008: samus-fusion_sheet (1)_4
+    21300010: samus-fusion_sheet (1)_5
+    21300012: samus-fusion_sheet (1)_6
+    21300014: samus-fusion_sheet (1)_7
+    21300016: samus-fusion_sheet (1)_8
+    21300018: samus-fusion_sheet (1)_9
+    21300020: samus-fusion_sheet (1)_10
+    21300022: samus-fusion_sheet (1)_11
+    21300024: samus-fusion_sheet (1)_13
+    21300026: samus-fusion_sheet (1)_14
+    21300028: samus-fusion_sheet (1)_16
+    21300030: samus-fusion_sheet (1)_17
+    21300032: samus-fusion_sheet (1)_18
+    21300034: samus-fusion_sheet (1)_19
+    21300036: samus-fusion_sheet (1)_20
+    21300038: samus-fusion_sheet (1)_21
+    21300040: samus-fusion_sheet (1)_22
+    21300042: samus-fusion_sheet (1)_23
+    21300044: samus-fusion_sheet (1)_24
+    21300046: samus-fusion_sheet (1)_25
+    21300048: samus-fusion_sheet (1)_26
+    21300050: samus-fusion_sheet (1)_27
+    21300052: samus-fusion_sheet (1)_28
+    21300054: samus-fusion_sheet (1)_29
+    21300056: samus-fusion_sheet (1)_30
+    21300058: samus-fusion_sheet (1)_31
+    21300060: samus-fusion_sheet (1)_32
+    21300062: samus-fusion_sheet (1)_33
+    21300064: samus-fusion_sheet (1)_34
+    21300066: samus-fusion_sheet (1)_35
+    21300068: samus-fusion_sheet (1)_36
+    21300070: samus-fusion_sheet (1)_37
+    21300072: samus-fusion_sheet (1)_38
+    21300074: samus-fusion_sheet (1)_39
+    21300076: samus-fusion_sheet (1)_40
+    21300078: samus-fusion_sheet (1)_41
+    21300080: samus-fusion_sheet (1)_42
+    21300082: samus-fusion_sheet (1)_43
+    21300084: samus-fusion_sheet (1)_44
+    21300086: samus-fusion_sheet (1)_45
+    21300088: samus-fusion_sheet (1)_46
+    21300090: samus-fusion_sheet (1)_47
+    21300092: samus-fusion_sheet (1)_48
+    21300094: samus-fusion_sheet (1)_49
+    21300096: samus-fusion_sheet (1)_50
+    21300098: samus-fusion_sheet (1)_51
+    21300100: samus-fusion_sheet (1)_52
+    21300102: samus-fusion_sheet (1)_53
+    21300104: samus-fusion_sheet (1)_54
+    21300106: samus-fusion_sheet (1)_55
+    21300108: samus-fusion_sheet (1)_56
+    21300110: samus-fusion_sheet (1)_57
+    21300112: samus-fusion_sheet (1)_58
+    21300114: samus-fusion_sheet (1)_59
+    21300116: samus-fusion_sheet (1)_60
+    21300118: samus-fusion_sheet (1)_61
+    21300120: samus-fusion_sheet (1)_62
+    21300122: samus-fusion_sheet (1)_63
+    21300124: samus-fusion_sheet (1)_64
+    21300126: samus-fusion_sheet (1)_65
+    21300128: samus-fusion_sheet (1)_66
+    21300130: samus-fusion_sheet (1)_67
+    21300132: samus-fusion_sheet (1)_68
+    21300134: samus-fusion_sheet (1)_69
+    21300136: samus-fusion_sheet (1)_70
+    21300138: samus-fusion_sheet (1)_71
+    21300140: samus-fusion_sheet (1)_72
+    21300142: samus-fusion_sheet (1)_73
+    21300144: samus-fusion_sheet (1)_74
+    21300146: samus-fusion_sheet (1)_75
+    21300148: samus-fusion_sheet (1)_76
+    21300150: samus-fusion_sheet (1)_77
+    21300152: samus-fusion_sheet (1)_78
+    21300154: samus-fusion_sheet (1)_79
+    21300156: samus-fusion_sheet (1)_80
+    21300158: samus-fusion_sheet (1)_81
+    21300160: samus-fusion_sheet (1)_82
+    21300162: samus-fusion_sheet (1)_83
+    21300164: samus-fusion_sheet (1)_84
+    21300166: samus-fusion_sheet (1)_85
+    21300168: samus-fusion_sheet (1)_86
+    21300170: samus-fusion_sheet (1)_87
+    21300172: samus-fusion_sheet (1)_88
+    21300174: samus-fusion_sheet (1)_89
+    21300176: samus-fusion_sheet (1)_90
+    21300178: samus-fusion_sheet (1)_91
+    21300180: samus-fusion_sheet (1)_92
+    21300182: samus-fusion_sheet (1)_93
+    21300184: samus-fusion_sheet (1)_94
+    21300186: samus-fusion_sheet (1)_95
+    21300188: samus-fusion_sheet (1)_96
+    21300190: samus-fusion_sheet (1)_97
+    21300192: samus-fusion_sheet (1)_98
+    21300194: samus-fusion_sheet (1)_99
+    21300196: samus-fusion_sheet (1)_100
+    21300198: samus-fusion_sheet (1)_101
+    21300200: samus-fusion_sheet (1)_102
+    21300202: samus-fusion_sheet (1)_103
+    21300204: samus-fusion_sheet (1)_104
+    21300206: samus-fusion_sheet (1)_105
+    21300208: samus-fusion_sheet (1)_106
+    21300210: samus-fusion_sheet (1)_107
+    21300212: samus-fusion_sheet (1)_108
+    21300214: samus-fusion_sheet (1)_109
+    21300216: samus-fusion_sheet (1)_110
+    21300218: samus-fusion_sheet (1)_111
+    21300220: samus-fusion_sheet (1)_112
+    21300222: samus-fusion_sheet (1)_113
+    21300224: samus-fusion_sheet (1)_114
+    21300226: samus-fusion_sheet (1)_115
+    21300228: samus-fusion_sheet (1)_116
+    21300230: samus-fusion_sheet (1)_117
+    21300232: samus-fusion_sheet (1)_118
+    21300234: samus-fusion_sheet (1)_119
+    21300236: samus-fusion_sheet (1)_120
+    21300238: samus-fusion_sheet (1)_121
+    21300240: samus-fusion_sheet (1)_122
+    21300242: samus-fusion_sheet (1)_123
+    21300244: samus-fusion_sheet (1)_124
+    21300246: samus-fusion_sheet (1)_125
+    21300248: samus-fusion_sheet (1)_126
+    21300250: samus-fusion_sheet (1)_127
+    21300252: samus-fusion_sheet (1)_128
+    21300254: samus-fusion_sheet (1)_129
+    21300256: samus-fusion_sheet (1)_130
+    21300258: samus-fusion_sheet (1)_131
+    21300260: samus-fusion_sheet (1)_132
+    21300262: samus-fusion_sheet (1)_133
+    21300264: samus-fusion_sheet (1)_134
+    21300266: samus-fusion_sheet (1)_135
+    21300268: samus-fusion_sheet (1)_136
+    21300270: samus-fusion_sheet (1)_137
+    21300272: samus-fusion_sheet (1)_138
+    21300274: samus-fusion_sheet (1)_139
+    21300276: samus-fusion_sheet (1)_140
+    21300278: samus-fusion_sheet (1)_141
+    21300280: samus-fusion_sheet (1)_142
+    21300282: samus-fusion_sheet (1)_143
+    21300284: samus-fusion_sheet (1)_144
+    21300286: samus-fusion_sheet (1)_145
+    21300288: samus-fusion_sheet (1)_146
+    21300290: samus-fusion_sheet (1)_147
+    21300292: samus-fusion_sheet (1)_148
+    21300294: samus-fusion_sheet (1)_149
+    21300296: samus-fusion_sheet (1)_150
+    21300298: samus-fusion_sheet (1)_151
+    21300300: samus-fusion_sheet (1)_152
+    21300302: samus-fusion_sheet (1)_153
+    21300304: samus-fusion_sheet (1)_154
+    21300306: samus-fusion_sheet (1)_155
+    21300308: samus-fusion_sheet (1)_156
+    21300310: samus-fusion_sheet (1)_157
+    21300312: samus-fusion_sheet (1)_158
+    21300314: samus-fusion_sheet (1)_159
+    21300316: samus-fusion_sheet (1)_160
+    21300318: samus-fusion_sheet (1)_161
+    21300320: samus-fusion_sheet (1)_162
+    21300322: samus-fusion_sheet (1)_163
+    21300324: samus-fusion_sheet (1)_164
+    21300326: samus-fusion_sheet (1)_165
+    21300328: samus-fusion_sheet (1)_166
+    21300330: samus-fusion_sheet (1)_167
+    21300332: samus-fusion_sheet (1)_168
+    21300334: samus-fusion_sheet (1)_169
+    21300336: samus-fusion_sheet (1)_170
+    21300338: samus-fusion_sheet (1)_171
+    21300340: samus-fusion_sheet (1)_172
+    21300342: samus-fusion_sheet (1)_173
+    21300344: samus-fusion_sheet (1)_174
+    21300346: samus-fusion_sheet (1)_175
+    21300348: samus-fusion_sheet (1)_176
+    21300350: samus-fusion_sheet (1)_177
+    21300352: samus-fusion_sheet (1)_178
+    21300354: samus-fusion_sheet (1)_179
+    21300356: samus-fusion_sheet (1)_180
+    21300358: samus-fusion_sheet (1)_181
+    21300360: samus-fusion_sheet (1)_182
+    21300362: samus-fusion_sheet (1)_183
+    21300364: samus-fusion_sheet (1)_184
+    21300366: samus-fusion_sheet (1)_185
+    21300368: samus-fusion_sheet (1)_186
+    21300370: samus-fusion_sheet (1)_187
+    21300372: samus-fusion_sheet (1)_188
+    21300374: samus-fusion_sheet (1)_189
+    21300376: samus-fusion_sheet (1)_190
+    21300378: samus-fusion_sheet (1)_191
+    21300380: samus-fusion_sheet (1)_192
+    21300382: samus-fusion_sheet (1)_193
+    21300384: samus-fusion_sheet (1)_194
+    21300386: samus-fusion_sheet (1)_195
+    21300388: samus-fusion_sheet (1)_196
+    21300390: samus-fusion_sheet (1)_197
+    21300392: samus-fusion_sheet (1)_198
+    21300394: samus-fusion_sheet (1)_199
+    21300396: samus-fusion_sheet (1)_200
+    21300398: samus-fusion_sheet (1)_201
+    21300400: samus-fusion_sheet (1)_202
+    21300402: samus-fusion_sheet (1)_203
+    21300404: samus-fusion_sheet (1)_204
+    21300406: samus-fusion_sheet (1)_205
+    21300408: samus-fusion_sheet (1)_206
+    21300410: samus-fusion_sheet (1)_207
+    21300412: samus-fusion_sheet (1)_208
+    21300414: samus-fusion_sheet (1)_209
+    21300416: samus-fusion_sheet (1)_210
+    21300418: samus-fusion_sheet (1)_211
+    21300420: samus-fusion_sheet (1)_212
+    21300422: samus-fusion_sheet (1)_213
+    21300424: samus-fusion_sheet (1)_214
+    21300426: samus-fusion_sheet (1)_215
+    21300428: samus-fusion_sheet (1)_216
+    21300430: samus-fusion_sheet (1)_217
+    21300432: samus-fusion_sheet (1)_218
+    21300434: samus-fusion_sheet (1)_219
+    21300436: samus-fusion_sheet (1)_220
+    21300438: samus-fusion_sheet (1)_221
+    21300440: samus-fusion_sheet (1)_222
+    21300442: samus-fusion_sheet (1)_223
+    21300444: samus-fusion_sheet (1)_224
+    21300446: samus-fusion_sheet (1)_225
+    21300448: samus-fusion_sheet (1)_226
+    21300450: samus-fusion_sheet (1)_227
+    21300452: samus-fusion_sheet (1)_228
+    21300454: samus-fusion_sheet (1)_229
+    21300456: samus-fusion_sheet (1)_230
+    21300458: samus-fusion_sheet (1)_231
+    21300460: samus-fusion_sheet (1)_232
+    21300462: samus-fusion_sheet (1)_233
+    21300464: samus-fusion_sheet (1)_234
+    21300466: samus-fusion_sheet (1)_235
+    21300468: samus-fusion_sheet (1)_236
+    21300470: samus-fusion_sheet (1)_237
+    21300472: samus-fusion_sheet (1)_238
+    21300474: samus-fusion_sheet (1)_239
+    21300476: samus-fusion_sheet (1)_240
+    21300478: samus-fusion_sheet (1)_241
+    21300480: samus-fusion_sheet (1)_242
+    21300482: samus-fusion_sheet (1)_243
+    21300484: samus-fusion_sheet (1)_244
+    21300486: samus-fusion_sheet (1)_245
+    21300488: samus-fusion_sheet (1)_246
+    21300490: samus-fusion_sheet (1)_247
+    21300492: samus-fusion_sheet (1)_248
+    21300494: samus-fusion_sheet (1)_249
+    21300496: samus-fusion_sheet (1)_250
+    21300498: samus-fusion_sheet (1)_251
+    21300500: samus-fusion_sheet (1)_252
+    21300502: samus-fusion_sheet (1)_253
+    21300504: samus-fusion_sheet (1)_254
+    21300506: samus-fusion_sheet (1)_255
+    21300508: samus-fusion_sheet (1)_256
+    21300510: samus-fusion_sheet (1)_257
+    21300512: samus-fusion_sheet (1)_258
+    21300514: samus-fusion_sheet (1)_259
+    21300516: samus-fusion_sheet (1)_260
+    21300518: samus-fusion_sheet (1)_261
+    21300520: samus-fusion_sheet (1)_262
+    21300522: samus-fusion_sheet (1)_263
+    21300524: samus-fusion_sheet (1)_264
+    21300526: samus-fusion_sheet (1)_265
+    21300528: samus-fusion_sheet (1)_266
+    21300530: samus-fusion_sheet (1)_267
+    21300532: samus-fusion_sheet (1)_268
+    21300534: samus-fusion_sheet (1)_269
+    21300536: samus-fusion_sheet (1)_270
+    21300538: samus-fusion_sheet (1)_271
+    21300540: samus-fusion_sheet (1)_272
+    21300542: samus-fusion_sheet (1)_273
+    21300544: samus-fusion_sheet (1)_274
+    21300546: samus-fusion_sheet (1)_275
+    21300548: samus-fusion_sheet (1)_276
+    21300550: samus-fusion_sheet (1)_277
+    21300552: samus-fusion_sheet (1)_278
+    21300554: samus-fusion_sheet (1)_279
+    21300556: samus-fusion_sheet (1)_280
+    21300558: samus-fusion_sheet (1)_281
+    21300560: samus-fusion_sheet (1)_282
+    21300562: samus-fusion_sheet (1)_283
+    21300564: samus-fusion_sheet (1)_284
+    21300566: samus-fusion_sheet (1)_285
+    21300568: samus-fusion_sheet (1)_286
+    21300570: samus-fusion_sheet (1)_287
+    21300572: samus-fusion_sheet (1)_288
+    21300574: samus-fusion_sheet (1)_289
+    21300576: samus-fusion_sheet (1)_290
+    21300578: samus-fusion_sheet (1)_291
+    21300580: samus-fusion_sheet (1)_292
+    21300582: samus-fusion_sheet (1)_293
+    21300584: samus-fusion_sheet (1)_294
+    21300586: samus-fusion_sheet (1)_295
+    21300588: samus-fusion_sheet (1)_296
+    21300590: samus-fusion_sheet (1)_297
+    21300592: samus-fusion_sheet (1)_298
+    21300594: samus-fusion_sheet (1)_299
+    21300596: samus-fusion_sheet (1)_300
+    21300598: samus-fusion_sheet (1)_301
+    21300600: samus-fusion_sheet (1)_302
+    21300602: samus-fusion_sheet (1)_303
+    21300604: samus-fusion_sheet (1)_304
+    21300606: samus-fusion_sheet (1)_305
+    21300608: samus-fusion_sheet (1)_306
+    21300610: samus-fusion_sheet (1)_307
+    21300612: samus-fusion_sheet (1)_308
+    21300614: samus-fusion_sheet (1)_309
+    21300616: samus-fusion_sheet (1)_310
+    21300618: samus-fusion_sheet (1)_311
+    21300620: samus-fusion_sheet (1)_312
+    21300622: samus-fusion_sheet (1)_313
+    21300624: samus-fusion_sheet (1)_314
+    21300626: samus-fusion_sheet (1)_315
+    21300628: samus-fusion_sheet (1)_316
+    21300630: samus-fusion_sheet (1)_317
+    21300632: samus-fusion_sheet (1)_318
+    21300634: samus-fusion_sheet (1)_319
+    21300636: samus-fusion_sheet (1)_320
+    21300638: samus-fusion_sheet (1)_321
+    21300640: samus-fusion_sheet (1)_322
+    21300642: samus-fusion_sheet (1)_323
+    21300644: samus-fusion_sheet (1)_324
+    21300646: samus-fusion_sheet (1)_325
+    21300648: samus-fusion_sheet (1)_326
+    21300650: samus-fusion_sheet (1)_327
+    21300652: samus-fusion_sheet (1)_328
+    21300654: samus-fusion_sheet (1)_329
+    21300656: samus-fusion_sheet (1)_330
+    21300658: samus-fusion_sheet (1)_331
+    21300660: samus-fusion_sheet (1)_332
+    21300662: samus-fusion_sheet (1)_333
+    21300664: samus-fusion_sheet (1)_334
+    21300666: samus-fusion_sheet (1)_12
+    21300668: samus-fusion_sheet (1)_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: samus-fusion_sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1148
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1148
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1148
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1148
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1149
+        width: 16
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1149
+        width: 16
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1149
+        width: 16
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1149
+        width: 18
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1154
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1154
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1154
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1153
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1165
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1150
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1153
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1153
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1099
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1099
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1099
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1099
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1099
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1099
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1099
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1101
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1102
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1100
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1100
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1100
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1100
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1102
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1101
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1051
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1051
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1051
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1051
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1051
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_36
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1051
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1051
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1051
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1052
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1053
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1050
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_42
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1049
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_43
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1049
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_44
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1050
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_45
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1053
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_46
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1052
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 995
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 995
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_49
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 995
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 995
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 995
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_52
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 995
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_53
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 996
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_54
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 998
+        width: 16
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 996
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_56
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 994
+        width: 17
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_57
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 994
+        width: 17
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_58
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 996
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_59
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 998
+        width: 16
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_60
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 996
+        width: 16
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 949
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 949
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 949
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 949
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 949
+        width: 21
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 949
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_67
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 949
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 949
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_69
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 946
+        width: 17
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_70
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 948
+        width: 16
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_71
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 945
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_72
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 945
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_73
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 945
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_74
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 945
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_75
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 948
+        width: 17
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_76
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 946
+        width: 17
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 901
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 901
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_79
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 901
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 901
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 901
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_82
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 901
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_83
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 901
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_84
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 901
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 900
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_86
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 902
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_87
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 900
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_88
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 899
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_89
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 899
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_90
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 900
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_91
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 902
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_92
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 900
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 851
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_94
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 851
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_95
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 851
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_96
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 851
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_97
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 851
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_98
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 851
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_99
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 851
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_100
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 851
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_101
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 851
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_102
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 853
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_103
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 849
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_104
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 849
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_105
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 849
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_106
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 849
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_107
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 853
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_108
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 851
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 801
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_110
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 801
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_111
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 801
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_112
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 800
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_113
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 800
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_114
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 801
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_115
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 801
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_116
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 801
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_117
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 801
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_118
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 802
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_119
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 800
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_120
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 800
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_121
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 800
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_122
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 800
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_123
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 802
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_124
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 801
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_125
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 751
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_126
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 751
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_127
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 751
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_128
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 751
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_129
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 752
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_130
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 753
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_131
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 750
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_132
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 749
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_133
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 749
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_134
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 750
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_135
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 753
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_136
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 752
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 701
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 35}
+        - {x: -15.5, y: 35}
+        - {x: -17.5, y: 34}
+        - {x: -17.5, y: 7}
+        - {x: -14.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 17.5, y: 5}
+        - {x: 17.5, y: 15}
+        - {x: 15.5, y: 17}
+    - name: samus-fusion_sheet (1)_138
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 701
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 35}
+        - {x: -12, y: 35}
+        - {x: -16, y: 34}
+        - {x: -16, y: 11}
+        - {x: -9, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 21}
+        - {x: 13, y: 34}
+    - name: samus-fusion_sheet (1)_139
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 700
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_140
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 701
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_141
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 701
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_142
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 700
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_143
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 701
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 35}
+        - {x: -13, y: 33}
+        - {x: -16, y: 22}
+        - {x: -16, y: 0}
+        - {x: 10, y: 0}
+        - {x: 16, y: 15}
+        - {x: 16, y: 31}
+        - {x: 12, y: 35}
+    - name: samus-fusion_sheet (1)_144
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 701
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 35}
+        - {x: -17.5, y: 21}
+        - {x: -17.5, y: 3}
+        - {x: -10.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 17.5, y: 2}
+        - {x: 17.5, y: 34}
+        - {x: 14.5, y: 35}
+    - name: samus-fusion_sheet (1)_145
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 703
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_146
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 702
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_147
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 702
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_148
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 701
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_149
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 701
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_150
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 702
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_151
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 702
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_152
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 703
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 651
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 35}
+        - {x: -8.5, y: 35}
+        - {x: -16.5, y: 26}
+        - {x: -16.5, y: 16}
+        - {x: -11.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 16}
+        - {x: 9.5, y: 32}
+    - name: samus-fusion_sheet (1)_154
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 651
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_155
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 651
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_156
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 651
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_157
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 651
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_158
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 651
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_159
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 651
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_160
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 651
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 35}
+        - {x: -16.5, y: 24}
+        - {x: -16.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 16.5, y: 11}
+        - {x: 16.5, y: 29}
+        - {x: 9.5, y: 35}
+    - name: samus-fusion_sheet (1)_161
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 653
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_162
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 652
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_163
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 657
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_164
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 654
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_165
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 654
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_166
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 657
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_167
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 652
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_168
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 653
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_169
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 601
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 16, y: 4}
+        - {x: 16, y: 25}
+        - {x: 13, y: 35}
+        - {x: -11, y: 35}
+        - {x: -16, y: 33}
+        - {x: -16, y: 11}
+    - name: samus-fusion_sheet (1)_170
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 601
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 35}
+        - {x: -18, y: 33}
+        - {x: -18, y: 0}
+        - {x: 16, y: 0}
+        - {x: 18, y: 4}
+        - {x: 18, y: 23}
+        - {x: 10, y: 35}
+    - name: samus-fusion_sheet (1)_171
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 601
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 35}
+        - {x: -11, y: 33}
+        - {x: -18, y: 21}
+        - {x: -18, y: 5}
+        - {x: -6, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 33}
+        - {x: 16, y: 35}
+    - name: samus-fusion_sheet (1)_172
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 601
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 35}
+        - {x: -11, y: 33}
+        - {x: -16, y: 21}
+        - {x: -16, y: 3}
+        - {x: -8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 15, y: 5}
+        - {x: 16, y: 8}
+        - {x: 16, y: 35}
+    - name: samus-fusion_sheet (1)_173
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 600
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 36}
+        - {x: -17, y: 35}
+        - {x: -17, y: 11}
+        - {x: -8, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 4}
+        - {x: 17, y: 34}
+        - {x: 12, y: 36}
+    - name: samus-fusion_sheet (1)_174
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 604
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_175
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 604
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_176
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 603
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_177
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 603
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_178
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 604
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_179
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 604
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_180
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 600
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 36}
+        - {x: -17, y: 30}
+        - {x: -17, y: 4}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 36}
+    - name: samus-fusion_sheet (1)_181
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 550
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 29}
+        - {x: 3, y: 37}
+        - {x: -17, y: 37}
+        - {x: -17, y: 8}
+        - {x: -15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 15}
+        - {x: 15, y: 17}
+    - name: samus-fusion_sheet (1)_182
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 550
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_183
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 550
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_184
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 551
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_185
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 551
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_186
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 550
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_187
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 550
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_188
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 550
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 37}
+        - {x: -17, y: 36}
+        - {x: -17, y: 1}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 15, y: 6}
+        - {x: 17, y: 21}
+        - {x: 17, y: 37}
+    - name: samus-fusion_sheet (1)_189
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 553
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_190
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 552
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_191
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 552
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_192
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 550
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 36}
+        - {x: -17, y: 4}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 2}
+        - {x: 17, y: 36}
+    - name: samus-fusion_sheet (1)_193
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 550
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 36}
+        - {x: -17, y: 31}
+        - {x: -17, y: 1}
+        - {x: -16, y: 0}
+        - {x: 8, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 33}
+        - {x: 15, y: 36}
+    - name: samus-fusion_sheet (1)_194
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 552
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_195
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 552
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_196
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 553
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_197
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 500
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 37}
+        - {x: -16, y: 13}
+        - {x: -12, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 37}
+    - name: samus-fusion_sheet (1)_198
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 500
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_199
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 501
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_200
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 500
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_201
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 500
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_202
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 501
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_203
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 500
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_204
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 500
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 37}
+        - {x: -16, y: 20}
+        - {x: -16, y: 0}
+        - {x: 0, y: 0}
+        - {x: 8, y: 2}
+        - {x: 16, y: 26}
+        - {x: 16, y: 37}
+    - name: samus-fusion_sheet (1)_205
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 502
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_206
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 504
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_207
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 504
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_208
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 503
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_209
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 503
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_210
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 504
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_211
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 504
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_212
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 502
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_213
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 450
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_214
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 450
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 37}
+        - {x: -17, y: 37}
+        - {x: -17, y: 0}
+        - {x: 4, y: 0}
+        - {x: 17, y: 5}
+        - {x: 17, y: 23}
+        - {x: 11, y: 33}
+    - name: samus-fusion_sheet (1)_215
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 450
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 37}
+        - {x: -17, y: 23}
+        - {x: -17, y: 6}
+        - {x: -15, y: 6}
+        - {x: -3, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 4}
+        - {x: 17, y: 37}
+    - name: samus-fusion_sheet (1)_216
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 450
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_217
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 449
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_218
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 449
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_219
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 450
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_220
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 448
+        width: 19
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_221
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 450
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_222
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 451
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_223
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 449
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_224
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 448
+        width: 18
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_225
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 35}
+        - {x: -11.5, y: 35}
+        - {x: -16.5, y: 29}
+        - {x: -16.5, y: 0}
+        - {x: -3.5, y: 0}
+        - {x: -2.5, y: 1}
+        - {x: 16.5, y: 5}
+        - {x: 16.5, y: 17}
+    - name: samus-fusion_sheet (1)_226
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 401
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_227
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 401
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_228
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 401
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_229
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 401
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_230
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 401
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_231
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 401
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_232
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 401
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 35}
+        - {x: -7.5, y: 35}
+        - {x: -16.5, y: 21}
+        - {x: -16.5, y: 3}
+        - {x: -8.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 25}
+        - {x: 11.5, y: 34}
+    - name: samus-fusion_sheet (1)_233
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 399
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_234
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 397
+        width: 19
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_235
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 400
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_236
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 401
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_237
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 401
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_238
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 400
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_239
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 397
+        width: 19
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_240
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 399
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_241
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_242
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 351
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_243
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 351
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_244
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 351
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_245
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 351
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_246
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_247
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 351
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_248
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 351
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_249
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 349
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_250
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 349
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 27}
+        - {x: -17, y: 6}
+        - {x: 4, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 39}
+        - {x: 7, y: 39}
+        - {x: 0, y: 36}
+    - name: samus-fusion_sheet (1)_251
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 349
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_252
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 349
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_253
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 349
+        width: 19
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_254
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 349
+        width: 19
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_255
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 349
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 38}
+        - {x: -16.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 16.5, y: 15}
+        - {x: 16.5, y: 33}
+        - {x: -0.5, y: 38}
+    - name: samus-fusion_sheet (1)_256
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 349
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_257
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 301
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_258
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 301
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -17, y: 31}
+        - {x: -17, y: 3}
+        - {x: -15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 27}
+        - {x: 13, y: 35}
+    - name: samus-fusion_sheet (1)_259
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 301
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 6}
+        - {x: -15, y: 6}
+        - {x: -3, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 35}
+        - {x: -6, y: 35}
+        - {x: -17, y: 22}
+    - name: samus-fusion_sheet (1)_260
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 301
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_261
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 295
+        width: 16
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_262
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 295
+        width: 20
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_263
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 295
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_264
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 295
+        width: 23
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_265
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 295
+        width: 21
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_266
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 295
+        width: 14
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_267
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 255
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_268
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 255
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_269
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 253
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_270
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 253
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_271
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 256
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_272
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 256
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_273
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 246
+        width: 19
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_274
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 245
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_275
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 245
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_276
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 245
+        width: 14
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_277
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 245
+        width: 13
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_278
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 245
+        width: 25
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_279
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 245
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_280
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 245
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_281
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 205
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_282
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 205
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_283
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 203
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_284
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 203
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_285
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 206
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_286
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 206
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_287
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 195
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_288
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 195
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_289
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 195
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_290
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 195
+        width: 15
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_291
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 195
+        width: 18
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_292
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 195
+        width: 14
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_293
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 195
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_294
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 195
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_295
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 159
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_296
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_297
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 159
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_298
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_299
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_300
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 159
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_301
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 146
+        width: 15
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_302
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 145
+        width: 19
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_303
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 146
+        width: 19
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_304
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 146
+        width: 14
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_305
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 110
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_306
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_307
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_308
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 110
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_309
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 110
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_310
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 110
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_311
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 110
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_312
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 110
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_313
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 99
+        width: 17
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_314
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 96
+        width: 15
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_315
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 96
+        width: 15
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_316
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 96
+        width: 15
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_317
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 95
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_318
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 95
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_319
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 95
+        width: 16
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_320
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 98
+        width: 18
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_321
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 55
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_322
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 53
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_323
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 52
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_324
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 51
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_325
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 51
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_326
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 52
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_327
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 53
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_328
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 55
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_329
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_330
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_331
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 4
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_332
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_333
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: samus-fusion_sheet (1)_334
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 0
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
