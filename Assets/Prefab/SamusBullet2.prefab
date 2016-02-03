@@ -14,7 +14,7 @@ GameObject:
   - 50: {fileID: 5031204}
   - 114: {fileID: 11459752}
   m_Layer: 0
-  m_Name: SamusBullet
+  m_Name: SamusBullet2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lifeTime: 0.45
-  explosion: {fileID: 194336, guid: d2b225db3e6fc314e8ed6e38c934cdc2, type: 2}
+  explosion: {fileID: 191516, guid: c71aab24d96508142a9b06f8884ac54d, type: 2}
 --- !u!212 &21273772
 SpriteRenderer:
   m_ObjectHideFlags: 1
