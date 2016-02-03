@@ -14,7 +14,7 @@ GameObject:
   - 61: {fileID: 6175090}
   m_Layer: 2
   m_Name: Stormtropper
-  m_TagString: Untagged
+  m_TagString: Stormtropper
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -123,6 +123,8 @@ MonoBehaviour:
   moveSpeed: 5
   maxX: 20
   minX: 1
+  distance: 10
+  life: 5
 --- !u!114 &11442062
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -134,7 +136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d553d29cbe52834c8b303c893c18215, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectile: {fileID: 5031204, guid: e01bb316ce8179743a3911a929090441, type: 2}
+  projectile: {fileID: 5069690, guid: e01bb316ce8179743a3911a929090441, type: 2}
   bulletSpeed: 15
   rateOfFire: 2
 --- !u!212 &21239186
@@ -177,7 +179,15 @@ Prefab:
     - target: {fileID: 0}
       propertyPath: projectile
       value: 
-      objectReference: {fileID: 5031204, guid: e01bb316ce8179743a3911a929090441, type: 2}
+      objectReference: {fileID: 5069690, guid: e01bb316ce8179743a3911a929090441, type: 2}
+    - target: {fileID: 0}
+      propertyPath: distance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 101426}

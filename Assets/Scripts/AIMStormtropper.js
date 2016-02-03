@@ -3,6 +3,8 @@
 public var moveSpeed : float = 0.0f;
 public var maxX: float = 0.0f;
 public var minX: float = 0.0f;
+public var distance : float = 0.0f; 
+public var life : int = 0;
 
 private var player : GameObject;
 private var initialX: float;
@@ -26,7 +28,7 @@ function Update () {
 
 	hit = Physics2D.Raycast(transform.position,direction);
 
-	if(hit.collider != null && hit.collider.gameObject == player) {
+	if(hit.collider != null && hit.collider.gameObject == player && Vector2.Distance(player.transform.position,transform.position) < distance) {
 		if(player.transform.position.x > transform.position.x) anim.SetBool("PlayerX", true);
 		else anim.SetBool("PlayerX", false);
 		anim.SetBool("Shoot", true);
@@ -51,4 +53,9 @@ function Update () {
 		}
 
 	}
+}
+
+function decreaseLife() {
+	life -= 1;
+	if(life == 0) Destroy(gameObject.transform.parent.gameObject);
 }
