@@ -7,6 +7,7 @@ TagManager:
   - Stormtropper
   - Creeper
   - EndMap
+  - Interface
   layers:
   - Default
   - TransparentFX
