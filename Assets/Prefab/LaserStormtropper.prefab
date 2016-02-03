@@ -11,7 +11,7 @@ GameObject:
   - 212: {fileID: 21267286}
   - 61: {fileID: 6172376}
   - 50: {fileID: 5069690}
-  - 114: {fileID: 11472122}
+  - 114: {fileID: 11424982}
   m_Layer: 0
   m_Name: LaserStormtropper
   m_TagString: Untagged
@@ -62,7 +62,7 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Size: {x: 2.9, y: 0.74}
---- !u!114 &11472122
+--- !u!114 &11424982
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -73,9 +73,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52b1de76034aff848a4b63b1edfaa68e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifeTime: 1
-  Damage: 5
-  explosion: {fileID: 125970, guid: 4043b0f2873c273449a759faf59f8ac3, type: 2}
+  lifeTime: 3
+  Damage: 4
+  explosion: {fileID: 0}
 --- !u!212 &21267286
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -115,11 +115,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 0}
       propertyPath: lifeTime
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 0}
       propertyPath: Damage
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 0}
       propertyPath: explosion

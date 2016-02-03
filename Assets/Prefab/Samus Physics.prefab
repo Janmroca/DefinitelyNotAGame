@@ -45,6 +45,7 @@ GameObject:
   - 50: {fileID: 5050540}
   - 61: {fileID: 6147178}
   - 58: {fileID: 5887066}
+  - 114: {fileID: 11423434}
   m_Layer: 0
   m_Name: Samus Physics
   m_TagString: Player
@@ -166,6 +167,18 @@ MonoBehaviour:
   projectile: {fileID: 5031204, guid: 907448cbbbdc28842a0caf1ba58e9af5, type: 2}
   bulletSpeed: 15
   shootSpawn: {fileID: 159116, guid: 2731fcd8362c9704e97bf4a72dd3d484, type: 2}
+--- !u!114 &11423434
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 194862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf268ab08e2ddc40a1bd04c6e6ec883, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Life: {fileID: 11499360, guid: 3d94a96e7430516468aa37a17b1b8547, type: 2}
 --- !u!114 &11465082
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -224,6 +237,11 @@ Prefab:
       propertyPath: projectile
       value: 
       objectReference: {fileID: 5031204, guid: e01bb316ce8179743a3911a929090441, type: 2}
+    - target: {fileID: 0}
+      propertyPath: Life
+      value: 
+      objectReference: {fileID: 11499360, guid: 3d94a96e7430516468aa37a17b1b8547,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 194862}

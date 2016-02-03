@@ -2,7 +2,6 @@
 
 public var lifeTime : float = 0.0f;
 public var Damage : int = 0;
-public var explosion : GameObject;
 
 private var tiempo : float;
 
@@ -14,7 +13,6 @@ function Update () {
 	tiempo += Time.deltaTime;
 	if(tiempo > lifeTime) {
 		Destroy(gameObject);
-		Instantiate(explosion, transform.position, transform.rotation);
 	}
 }
 
