@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 9fc94296c9fbccf41b636d1b86a9da68
+timeCreated: 1454498058
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle1
+    21300002: idle2
+    21300004: idle3
+    21300006: left1
+    21300008: left2
+    21300010: left3
+    21300012: right1
+    21300014: right2
+    21300016: right3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idle1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 263
+        width: 23
+        height: 13
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.2499554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: idle2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 262
+        width: 23
+        height: 11
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.31195068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: idle3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 262
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: left1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 244
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 0.22419363, y: 0.2499554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: left2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 244
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.24389394, y: 0.2850855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: left3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 244
+        width: 15
+        height: 7
+      alignment: 9
+      pivot: {x: 0.22419332, y: 0.49999782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: right1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 225
+        width: 15
+        height: 7
+      alignment: 9
+      pivot: {x: 0.7561057, y: 0.45778328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: right2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.75610554, y: 0.2850855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: right3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 225
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 0.77580565, y: 0.2499554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
