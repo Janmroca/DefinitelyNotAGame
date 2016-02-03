@@ -13,17 +13,21 @@ function Start () {
 }
 
 function Update () {
+	Debug.Log(child.transform.rotation);
 
 	if (player.transform.position.x - transform.position.x > 1) {
 		transform.position.x += 0.05;
 		animator.SetFloat("dir", 1);
-
+		child.transform.rotation = Quaternion(0.0, -0.7, 0.0, 0.7);
 
 	} else if (player.transform.position.x-transform.position.x < -1) {
 		transform.position.x -= 0.05;
 		animator.SetFloat("dir", -1);
+		child.transform.rotation = Quaternion(0.0, 0.7, 0.0, 0.7);
 		
-	}  else animator.SetFloat("dir", 0);
+	}  else {
+		animator.SetFloat("dir", 0);
+	}
 
 	if (player.transform.position.y - transform.position.y > 1) {
 		transform.position.y += 0.1;

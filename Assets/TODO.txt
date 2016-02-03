@@ -27,3 +27,4 @@
 //SAMUS
 -STOP ALL IF DIE OR OPENDOOR
 -> to backwards animation
+-> collider i shoot bola
