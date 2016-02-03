@@ -19,6 +19,7 @@ function Update () {
 }
 
 function OnCollisionEnter2D (col : Collision2D) {
+	Instantiate(explosion, transform.position, transform.rotation);
 	if(col.collider.gameObject.tag == "Player")
 		col.collider.gameObject.SendMessage("decreaseLife",Damage);
 	else if(col.collider.gameObject.tag == "Stormtropper")
