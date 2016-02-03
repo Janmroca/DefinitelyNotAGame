@@ -4,6 +4,7 @@ public var projectile : Rigidbody2D;
 public var bulletSpeed : float = 0.0f;
 
 private var animator : Animator;
+private var time : float;
 
 
 function Start () {
@@ -11,7 +12,11 @@ function Start () {
 }
 
 function Update () {
-	if(Input.GetKeyDown(KeyCode.F)) {
+
+	time += Time.deltaTime;
+	if(Input.GetKeyDown(KeyCode.F) || Input.GetButtonDown("X")) {
+		time = 0;
+		animator.SetFloat("shoot", 1);
 		
 		if(animator.GetFloat("lookingAt") == 2.0f) {
 			var bullet0 : Rigidbody2D = Rigidbody2D.Instantiate(projectile,
@@ -63,6 +68,8 @@ function Update () {
 			Physics2D.IgnoreCollision(bullet6.GetComponent.<Collider2D>(), transform.parent.gameObject.GetComponent.<CircleCollider2D>());
 		}
 	}
+
+	if (time >= .5) animator.SetFloat("shoot", 0);
 
 
 }
