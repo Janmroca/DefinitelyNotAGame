@@ -13,7 +13,7 @@ GameObject:
   - 50: {fileID: 5069690}
   - 114: {fileID: 11472122}
   m_Layer: 0
-  m_Name: Bullet
+  m_Name: LaserStormtropper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -102,7 +102,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c3bc13d348d83c948bcc862f8af56460, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9a922152787058745af656f76a3522ce, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -125,6 +125,11 @@ Prefab:
       propertyPath: explosion
       value: 
       objectReference: {fileID: 125970, guid: 4043b0f2873c273449a759faf59f8ac3, type: 2}
+    - target: {fileID: 0}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9a922152787058745af656f76a3522ce,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 192438}
