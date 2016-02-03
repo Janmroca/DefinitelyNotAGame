@@ -1,5 +1,22 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &131284
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 476298}
+  - 198: {fileID: 19858784}
+  - 199: {fileID: 19929398}
+  m_Layer: 0
+  m_Name: Particle System
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &138284
 GameObject:
   m_ObjectHideFlags: 0
@@ -19,29 +36,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!1 &191266
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
-  m_Component:
-  - 4: {fileID: 464112}
-  - 198: {fileID: 19871900}
-  - 199: {fileID: 19960910}
-  m_Layer: 0
-  m_Name: Particle System
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &464112
+--- !u!4 &476298
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 191266}
+  m_GameObject: {fileID: 131284}
   m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5000001, w: 0.49999994}
   m_LocalPosition: {x: 0.008, y: -0, z: -0}
   m_LocalScale: {x: 0.2, y: 1, z: 0.19999997}
@@ -58,7 +58,7 @@ Transform:
   m_LocalPosition: {x: 0.701, y: -2.25, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_Children:
-  - {fileID: 464112}
+  - {fileID: 476298}
   m_Father: {fileID: 0}
   m_RootOrder: 0
 --- !u!82 &8260676
@@ -71,7 +71,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: e5239f40ea961f34190754e5a0da22ce, type: 3}
-  m_PlayOnAwake: 0
+  m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -163,12 +163,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e992723cf82e4a24680c755e0e684f88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!198 &19871900
+--- !u!198 &19858784
 ParticleSystem:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 191266}
+  m_GameObject: {fileID: 131284}
   serializedVersion: 2
   lengthInSec: 5
   startDelay:
@@ -1662,12 +1662,12 @@ ParticleSystem:
     subEmitterCollision1: {fileID: 0}
     subEmitterDeath: {fileID: 0}
     subEmitterDeath1: {fileID: 0}
---- !u!199 &19960910
+--- !u!199 &19929398
 ParticleSystemRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 191266}
+  m_GameObject: {fileID: 131284}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
