@@ -19,5 +19,7 @@ function OnTriggerEnter2D ( col : Collider2D) {
 		transform.GetChild(0).gameObject.GetComponent.<ParticleSystem>().Play();
 		GameObject.FindWithTag("Player").gameObject.transform.GetChild(1).GetComponent.<SpriteRenderer>().enabled = false;
 		GameObject.FindWithTag("Player").gameObject.GetComponent.<MovementPlayer>().enabled = false;
+		GameObject.FindWithTag("Navi").gameObject.GetComponent.<SpriteRenderer>().enabled = false;
+		GameObject.FindWithTag("Navi").gameObject.transform.GetChild(0).GetComponent.<ParticleSystem>().Stop();
 	}
 }

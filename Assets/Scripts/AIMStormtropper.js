@@ -32,7 +32,9 @@ function Update () {
 		if(player.transform.position.x > transform.position.x) anim.SetBool("PlayerX", true);
 		else anim.SetBool("PlayerX", false);
 		anim.SetBool("Shoot", true);
-		transform.rotation = Quaternion(0,0,rotation.z, rotation.w);
+		//transform.rotation = Quaternion(0,0,rotation.z, rotation.w);
+		transform.LookAt(player.transform.position);
+		transform.Rotate(Vector3(0,-90,0),Space.Self);
 		GetComponent.<ShootStormtropper>().enabled = true;
 	}
 	else {
