@@ -3,8 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags:
   - Stair
+=======
+  tags: []
+>>>>>>> origin/master
   layers:
   - Default
   - TransparentFX
@@ -42,6 +46,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Player
     uniqueID: 3158938823
     locked: 0
+=======
+>>>>>>> origin/master
