@@ -4,7 +4,6 @@ public var player : GameObject;
 public var minX : float;
 public var maxX : float;
 
-
 function Start() {
 }
 

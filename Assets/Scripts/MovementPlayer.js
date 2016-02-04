@@ -15,14 +15,20 @@ private var ground : GameObject = null;
 private var lookingAt: float = 0.0f;
 private var crouching : float = 0.0f;
 private var isRolling : float;
+private var isSpawning: boolean;
+private var time : float;
+private var circlecollider : CircleCollider2D;
 
 function Start () {
+	circlecollider = GetComponent.<CircleCollider2D>();
 	rb = GetComponent.<Rigidbody2D>();
 	CurrentSpeed = initialSpeed;
 	lookingAt = 0;
 	crouching = 0;
 	isRolling = 0;
 	animator = transform.GetChild(1).gameObject.GetComponent.<Animator>();
+	isSpawning = true;
+	time = 0;
 
 }
 
@@ -35,6 +41,11 @@ function FixedUpdate () {
 
 
 function Update () {
+
+	if (isSpawning) {
+		time += Time.deltaTime;
+		if(time>=1) Destroy(GameObject.Find("SpawnAnim"));
+	}
 
 	//No Deslizamiento
 	if(Input.GetKeyUp(KeyCode.RightArrow) || Input.GetKeyUp(KeyCode.LeftArrow)) {
@@ -80,6 +91,7 @@ function Update () {
 		if (lookingAt == 0.5 || lookingAt == 0.25) lookingAt = 1;
 		else if (lookingAt == 1.5 || lookingAt == 1.25) lookingAt = 2;
 	} else if (Input.GetKeyDown(KeyCode.DownArrow) && crouching) {
+		GetComponent.<BoxCollider2D>().enabled = false;
 		isRolling = 1;
 		crouching = 1;
 	} else if (Input.GetKeyDown(KeyCode.DownArrow)) {
@@ -143,6 +155,21 @@ function Update () {
 		CurrentJumpSpeed = 0;
 		animator.SetBool("isJumping", false);
 		animator.SetBool("isFalling", true);
+	}
+
+	if (isRolling) {
+		transform.GetChild(0).gameObject.GetComponent.<ShootPlayer>().enabled = false;
+		GetComponent.<BoxCollider2D>().enabled = false;
+		GetComponent.<CircleCollider2D>().radius = 0.08;
+		GetComponent.<CircleCollider2D>().offset.y = -0.22;
+	} else if (crouching) {
+		transform.GetChild(0).gameObject.GetComponent.<ShootPlayer>().enabled = true;	
+		GetComponent.<CircleCollider2D>().radius = 0.12;
+		GetComponent.<CircleCollider2D>().offset.y = -0.2;
+		GetComponent.<BoxCollider2D>().enabled = false;
+	} else {
+				GetComponent.<BoxCollider2D>().enabled = true;
+
 	}
 
 	animator.SetFloat("Direction", rb.velocity.x*rb.velocity.x);

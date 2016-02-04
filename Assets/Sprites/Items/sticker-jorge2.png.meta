@@ -1,11 +1,9 @@
 fileFormatVersion: 2
-guid: d6095b1e4c6dc0e4c8ef8072865fa806
-timeCreated: 1454522355
+guid: d3f2003147fbb0a438858ae2f4e79fd3
+timeCreated: 1454537328
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: DockBackground_0
-    21300002: DockBackground_1
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -32,7 +30,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: 16
+    aniso: -1
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -40,7 +38,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,40 +49,7 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites:
-    - name: DockBackground_0
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 497
-        width: 240
-        height: 161
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -120, y: 80.5}
-        - {x: -120, y: -80.5}
-        - {x: 120, y: -80.5}
-        - {x: 120, y: 80.5}
-    - name: DockBackground_1
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 525
-        width: 192
-        height: 101
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 73, y: 50.5}
-        - {x: -87, y: 50.5}
-        - {x: -96, y: 48.5}
-        - {x: -96, y: -50.5}
-        - {x: 92, y: -50.5}
-        - {x: 96, y: -32.5}
-        - {x: 96, y: 14.5}
+    sprites: []
     outline: []
   spritePackingTag: 
   userData: 

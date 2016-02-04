@@ -1,0 +1,1553 @@
+fileFormatVersion: 2
+guid: 6240f43a1ce611e4c9e63b384e9bfd5c
+timeCreated: 1454545234
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: usablesmetroid_0
+    21300002: usablesmetroid_1
+    21300004: usablesmetroid_2
+    21300006: usablesmetroid_3
+    21300008: usablesmetroid_4
+    21300010: usablesmetroid_5
+    21300012: usablesmetroid_6
+    21300014: usablesmetroid_7
+    21300016: usablesmetroid_8
+    21300018: usablesmetroid_9
+    21300020: usablesmetroid_10
+    21300022: usablesmetroid_11
+    21300024: usablesmetroid_12
+    21300026: usablesmetroid_13
+    21300028: usablesmetroid_14
+    21300030: usablesmetroid_15
+    21300032: usablesmetroid_16
+    21300034: usablesmetroid_17
+    21300036: usablesmetroid_18
+    21300038: usablesmetroid_19
+    21300040: usablesmetroid_20
+    21300042: usablesmetroid_21
+    21300044: usablesmetroid_22
+    21300046: usablesmetroid_23
+    21300048: usablesmetroid_24
+    21300050: usablesmetroid_25
+    21300052: usablesmetroid_26
+    21300054: usablesmetroid_27
+    21300056: usablesmetroid_28
+    21300058: usablesmetroid_29
+    21300060: usablesmetroid_30
+    21300062: usablesmetroid_31
+    21300064: usablesmetroid_32
+    21300066: usablesmetroid_33
+    21300068: usablesmetroid_34
+    21300070: usablesmetroid_35
+    21300072: usablesmetroid_36
+    21300074: usablesmetroid_37
+    21300076: usablesmetroid_38
+    21300078: usablesmetroid_39
+    21300080: usablesmetroid_40
+    21300082: usablesmetroid_41
+    21300084: usablesmetroid_42
+    21300086: usablesmetroid_43
+    21300088: usablesmetroid_44
+    21300090: usablesmetroid_45
+    21300092: usablesmetroid_46
+    21300094: usablesmetroid_47
+    21300096: usablesmetroid_48
+    21300098: usablesmetroid_49
+    21300100: usablesmetroid_50
+    21300102: usablesmetroid_51
+    21300104: usablesmetroid_52
+    21300106: usablesmetroid_53
+    21300108: usablesmetroid_54
+    21300110: usablesmetroid_55
+    21300112: usablesmetroid_56
+    21300114: usablesmetroid_57
+    21300116: usablesmetroid_58
+    21300118: usablesmetroid_59
+    21300120: usablesmetroid_60
+    21300122: usablesmetroid_61
+    21300124: usablesmetroid_62
+    21300126: usablesmetroid_63
+    21300128: usablesmetroid_64
+    21300130: usablesmetroid_65
+    21300132: usablesmetroid_66
+    21300134: usablesmetroid_67
+    21300136: usablesmetroid_68
+    21300138: usablesmetroid_69
+    21300140: usablesmetroid_70
+    21300142: usablesmetroid_71
+    21300144: usablesmetroid_72
+    21300146: usablesmetroid_73
+    21300148: usablesmetroid_74
+    21300150: usablesmetroid_75
+    21300152: usablesmetroid_76
+    21300154: usablesmetroid_77
+    21300156: usablesmetroid_78
+    21300158: usablesmetroid_79
+    21300160: usablesmetroid_80
+    21300162: usablesmetroid_81
+    21300164: usablesmetroid_82
+    21300166: usablesmetroid_83
+    21300168: usablesmetroid_84
+    21300170: usablesmetroid_85
+    21300172: usablesmetroid_86
+    21300174: usablesmetroid_87
+    21300176: usablesmetroid_88
+    21300178: usablesmetroid_89
+    21300180: usablesmetroid_90
+    21300182: usablesmetroid_91
+    21300184: usablesmetroid_92
+    21300186: usablesmetroid_93
+    21300188: usablesmetroid_94
+    21300190: usablesmetroid_95
+    21300192: usablesmetroid_96
+    21300194: usablesmetroid_97
+    21300196: usablesmetroid_98
+    21300198: usablesmetroid_99
+    21300200: usablesmetroid_100
+    21300202: usablesmetroid_101
+    21300204: usablesmetroid_102
+    21300206: usablesmetroid_103
+    21300208: usablesmetroid_104
+    21300210: usablesmetroid_105
+    21300212: usablesmetroid_106
+    21300214: usablesmetroid_107
+    21300216: usablesmetroid_108
+    21300218: usablesmetroid_109
+    21300220: usablesmetroid_110
+    21300222: usablesmetroid_111
+    21300224: usablesmetroid_112
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: usablesmetroid_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 465
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 465
+        width: 9
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 465
+        width: 9
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 463
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 382
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 382
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 382
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 382
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 382
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 382
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 382
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 382
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 382
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 382
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 429
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 314
+        width: 48
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 55}
+        - {x: -24, y: -55}
+        - {x: 24, y: -55}
+        - {x: 24, y: 55}
+    - name: usablesmetroid_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 397
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 315
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 315
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 315
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 315
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 315
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 315
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: usablesmetroid_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 315
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 315
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 315
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_45
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 363
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_46
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 331
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 245
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 32}
+    - name: usablesmetroid_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 245
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 32}
+    - name: usablesmetroid_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 245
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 32}
+    - name: usablesmetroid_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 245
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 32}
+    - name: usablesmetroid_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 245
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 32}
+    - name: usablesmetroid_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 204
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -24, y: -20}
+        - {x: 24, y: -20}
+        - {x: 24, y: 20}
+    - name: usablesmetroid_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 204
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -24, y: -20}
+        - {x: 24, y: -20}
+        - {x: 24, y: 20}
+    - name: usablesmetroid_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 204
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -24, y: -20}
+        - {x: 24, y: -20}
+        - {x: 24, y: 20}
+    - name: usablesmetroid_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -24, y: -20}
+        - {x: 24, y: -20}
+        - {x: 24, y: 20}
+    - name: usablesmetroid_56
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 204
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -24, y: -20}
+        - {x: 24, y: -20}
+        - {x: 24, y: 20}
+    - name: usablesmetroid_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 20}
+        - {x: -29, y: 16}
+        - {x: -39, y: 11}
+        - {x: -39, y: -16}
+        - {x: -37, y: -20}
+        - {x: 28, y: -20}
+        - {x: 39, y: -6}
+        - {x: 39, y: 6}
+        - {x: 28, y: 20}
+    - name: usablesmetroid_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 115
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 20}
+        - {x: -29, y: 16}
+        - {x: -39, y: 11}
+        - {x: -39, y: -16}
+        - {x: -37, y: -20}
+        - {x: 28, y: -20}
+        - {x: 39, y: -6}
+        - {x: 39, y: 6}
+        - {x: 28, y: 20}
+    - name: usablesmetroid_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 115
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 20}
+        - {x: -29, y: 16}
+        - {x: -39, y: 11}
+        - {x: -39, y: -16}
+        - {x: -37, y: -20}
+        - {x: 28, y: -20}
+        - {x: 39, y: -6}
+        - {x: 39, y: 6}
+        - {x: 28, y: 20}
+    - name: usablesmetroid_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 115
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 20}
+        - {x: -29, y: 16}
+        - {x: -39, y: 11}
+        - {x: -39, y: -16}
+        - {x: -37, y: -20}
+        - {x: 28, y: -20}
+        - {x: 39, y: -6}
+        - {x: 39, y: 6}
+        - {x: 28, y: 20}
+    - name: usablesmetroid_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 115
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 20}
+        - {x: -29, y: 16}
+        - {x: -39, y: 11}
+        - {x: -39, y: -16}
+        - {x: -37, y: -20}
+        - {x: 28, y: -20}
+        - {x: 39, y: -6}
+        - {x: 39, y: 6}
+        - {x: 28, y: 20}
+    - name: usablesmetroid_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -16, y: -35}
+        - {x: 16, y: -35}
+        - {x: 16, y: 34}
+        - {x: 14, y: 35}
+      - - {x: 13, y: -31}
+        - {x: 13, y: -35}
+        - {x: 16, y: -35}
+        - {x: 16, y: -28}
+        - {x: 14, y: -28}
+    - name: usablesmetroid_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_64
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 73
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_65
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -33, y: 39}
+        - {x: -35, y: 16}
+        - {x: -35, y: -27}
+        - {x: -26, y: -51}
+        - {x: 35, y: -51}
+        - {x: 35, y: 51}
+    - name: usablesmetroid_66
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 53
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 29.5}
+        - {x: -29.5, y: 9.5}
+        - {x: -29.5, y: -29.5}
+        - {x: 29.5, y: -29.5}
+        - {x: 29.5, y: 29.5}
+      - - {x: -29.5, y: 29.5}
+        - {x: -29.5, y: 19.5}
+        - {x: -28.5, y: 19.5}
+        - {x: -19.5, y: 28.5}
+        - {x: -19.5, y: 29.5}
+    - name: usablesmetroid_67
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 47
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 29.5}
+        - {x: -29.5, y: 15.5}
+        - {x: -29.5, y: -29.5}
+        - {x: 29.5, y: -29.5}
+        - {x: 29.5, y: 29.5}
+      - - {x: -29.5, y: 29.5}
+        - {x: -29.5, y: 25.5}
+        - {x: -28.5, y: 25.5}
+        - {x: -25.5, y: 28.5}
+        - {x: -25.5, y: 29.5}
+    - name: usablesmetroid_68
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 50
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 29.5}
+        - {x: -29.5, y: 12.5}
+        - {x: -29.5, y: -29.5}
+        - {x: 29.5, y: -29.5}
+        - {x: 29.5, y: 29.5}
+      - - {x: -29.5, y: 29.5}
+        - {x: -29.5, y: 22.5}
+        - {x: -28.5, y: 22.5}
+        - {x: -22.5, y: 28.5}
+        - {x: -22.5, y: 29.5}
+    - name: usablesmetroid_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 132
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_70
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_71
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_73
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_74
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_76
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_77
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_78
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_79
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_80
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_81
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_83
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_84
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_85
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_86
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_87
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_88
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_90
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 29
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_91
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 26
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_92
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 26
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_93
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 26
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 26
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_95
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 26
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_96
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 26
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_97
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 26
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_98
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 16
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_99
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 16
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_101
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_102
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_104
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 16
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_105
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 16
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_106
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 16
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_108
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_109
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_110
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_111
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: usablesmetroid_112
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 4
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

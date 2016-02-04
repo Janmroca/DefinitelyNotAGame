@@ -23,5 +23,7 @@ function OnCollisionEnter2D (col : Collision2D) {
 		col.collider.gameObject.transform.GetChild(0).SendMessage("decreaseLife");
 	else if(col.collider.gameObject.tag == "Creeper")
 		col.collider.gameObject.SendMessage("decreaseLife");
+	else if(col.collider.gameObject.tag == "FaceDoor") 
+		col.collider.gameObject.SendMessage("close");
 	Destroy(gameObject);
 }
