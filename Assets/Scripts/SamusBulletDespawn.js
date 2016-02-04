@@ -25,5 +25,7 @@ function OnCollisionEnter2D (col : Collision2D) {
 		col.collider.gameObject.SendMessage("decreaseLife");
 	else if(col.collider.gameObject.tag == "FaceDoor") 
 		col.collider.gameObject.SendMessage("close");
+	else if (col.collider.gameObject.tag == "Zombie") 
+		col.collider.gameObject.SendMessage("die");
 	Destroy(gameObject);
 }

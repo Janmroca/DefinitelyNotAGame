@@ -51,8 +51,3 @@ function OnCollisionEnter2D (col : Collision2D) {
 			collision = true;
 	}
 }
-
-function decreaseLife() {
-	life -= 1;
-	if(life == 0) Destroy(gameObject);
-}
