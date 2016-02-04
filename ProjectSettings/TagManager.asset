@@ -7,7 +7,11 @@ TagManager:
   - Stormtropper
   - Creeper
   - EndMap
+<<<<<<< HEAD
   - FaceDoor
+=======
+  - Interface
+>>>>>>> origin/master
   layers:
   - Default
   - TransparentFX
