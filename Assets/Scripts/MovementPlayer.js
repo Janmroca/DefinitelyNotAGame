@@ -196,6 +196,21 @@ function OnCollisionExit2D(col : Collision2D) {
 	if(col.gameObject == ground) ground = null;
 }
 
+function OnTriggerEnter2D(col: Collider2D) {
+	if (col.gameObject.tag == "Stair") {
+		ground = col.gameObject;
+		if (transform.position.y <= -1) maxSpeed = 3.5;
+		else if (transform.position.y > -0.9)  maxSpeed = 2.5;
+	}
+}
+
+function OnTriggerExit2D(col: Collider2D) {
+	if (col.gameObject.tag == "Stair") {
+		maxSpeed = 10;
+	}
+
+}
+
 function IsGrounded () {
 	return (ground != null);
 }

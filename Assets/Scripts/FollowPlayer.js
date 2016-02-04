@@ -15,12 +15,12 @@ function Start () {
 function Update () {
 	
 	if (player.transform.position.x - transform.position.x > 1) {
-		transform.position.x += 0.05;
+		transform.position.x += 0.1;
 		animator.SetFloat("dir", 1);
 		child.transform.rotation = Quaternion(0.0, -0.7, 0.0, 0.7);
 
 	} else if (player.transform.position.x-transform.position.x < -1) {
-		transform.position.x -= 0.05;
+		transform.position.x -= 0.1;
 		animator.SetFloat("dir", -1);
 		child.transform.rotation = Quaternion(0.0, 0.7, 0.0, 0.7);
 		
