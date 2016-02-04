@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Zombie
+  - Stormtropper
+  - Interface
+  - Halcon2
+  - Navi
+  - FaceDoor
+  - Stair
+  - Creeper
   layers:
   - Default
   - TransparentFX
@@ -14,8 +21,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - 1
+  - 2
   - 
   - 
   - 
@@ -44,4 +51,10 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 349515849
+    locked: 0
+  - name: 1
+    uniqueID: 1036846515
+    locked: 0
+  - name: 2
+    uniqueID: 1922271409
     locked: 0
