@@ -9,7 +9,7 @@ function Update() {
 		transform.position += Vector2(1,1)*Time.deltaTime;
 	}
 	if(tiempo > 5)
-		Application.LoadLevel(Application.loadedLevel);
+		Application.LoadLevel(Application.loadedLevel+2);
 }
 
 function OnTriggerEnter2D ( col : Collider2D) {

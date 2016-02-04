@@ -34,7 +34,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 189076}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.56, y: -9.77, z: 0}
+  m_LocalPosition: {x: 13.56, y: -9.77, z: -0.1}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_Children: []
   m_Father: {fileID: 0}
@@ -739,6 +739,7 @@ MonoBehaviour:
   pp2: {fileID: 8241580}
   pp3: {fileID: 8231082}
   ppSong: {fileID: 8234602}
+  background: {fileID: 0}
 --- !u!212 &21227380
 SpriteRenderer:
   m_ObjectHideFlags: 1

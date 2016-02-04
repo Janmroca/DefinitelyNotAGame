@@ -1,4 +1,4 @@
-﻿#pragma strict
+#pragma strict
 
 public var up : AudioSource;
 public var down : AudioSource;
@@ -9,6 +9,8 @@ public var pp1 : AudioSource;
 public var pp2 : AudioSource;
 public var pp3 : AudioSource;
 public var ppSong: AudioSource;
+public var background : GameObject;
+public var c : BoxCollider2D;
 
 private var onPlace : boolean;
 private var playing : boolean;
@@ -29,7 +31,7 @@ function Update () {
 		if (playing) {
 			playing = false;
 			player.GetComponent.<AudioSource>().Play();
-			player.GetComponent.<MovementPlayer>().enabled = true;
+			if (count <= 3) player.GetComponent.<MovementPlayer>().enabled = true;
 		} else {
 			count = 0;
 			playing = true;
@@ -72,11 +74,24 @@ function Update () {
 		}
 	}
 
-	if (stat == 6) Debug.Log("OPENDOOR");
+	if (stat == 6) {
+		playing = false;
+		++stat;
+		background.GetComponent.<SpriteRenderer>().enabled = true;
+		c.enabled = true;
+		background.GetComponent.<AudioSource>().Play();
+		player.GetComponent.<AudioSource>().Play();
+		if (count <= 3) player.GetComponent.<MovementPlayer>().enabled = true;
+	}
+
 }
 
 function OnTriggerEnter2D(col: Collider2D) {
 	if (col.gameObject.tag == "Player") {
 		onPlace = true;
 	}
+}
+
+function OnTriggerExit2D(col: Collider2D) {
+	if (col.gameObject.tag == "Player") onPlace = false;
 }
