@@ -13,3 +13,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Castlevania2.unity
   - enabled: 1
     path: Assets/Scenes/Castlevania1.unity
+  - enabled: 1
+    path: Assets/Scenes/Gabe.unity
