@@ -17,6 +17,8 @@ function Update () {
 }
 
 function OnTriggerEnter2D(col: Collider2D) {
-	triggered = true;
-	time = 5.0f;
+	if (col.gameObject.tag == "Player") {
+		triggered = true;
+		time = 5.0f;
+	}
 }

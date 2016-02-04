@@ -1245,7 +1245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d93d7851981a94f87eee78a3a39aeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeToSpawn: 2
+  timeToSpawn: 1
   zombie: {fileID: 152290, guid: 1ca6ba826568cba4c99f13d454c6d5d6, type: 2}
 --- !u!1 &1323810660
 GameObject:
