@@ -10,4 +10,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SpawnLevel2.unity
   - enabled: 1
+    path: Assets/Scenes/Castlevania2.unity
+  - enabled: 1
     path: Assets/Scenes/Castlevania1.unity

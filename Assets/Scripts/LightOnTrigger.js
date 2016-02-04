@@ -11,7 +11,7 @@ function Start() {
 
 function Update() {
 	time += Time.deltaTime;
-	if (time > 18) {
+	if (time > 17.5) {
 		triggered = true;
 		GetComponent.<ZombieSpawn>().enabled = true;
 	}
