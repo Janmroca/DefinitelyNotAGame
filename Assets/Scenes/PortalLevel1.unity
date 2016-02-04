@@ -8079,7 +8079,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 640213924}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 90}
+  m_LocalPosition: {x: 0, y: 0, z: 87.92}
   m_LocalScale: {x: 0.03056566, y: 0.03056566, z: 0.03056566}
   m_Children:
   - {fileID: 251916938}
