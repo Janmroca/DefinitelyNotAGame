@@ -4,28 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SpawnLevel1.unity
-  - enabled: 0
-    path: Assets/Scenes/SpawnLevel2.unity
-  - enabled: 0
-    path: Assets/Scenes/Castlevania1.unity
-  - enabled: 0
-    path: Assets/Scenes/Castlevania2.unity
-  - enabled: 0
-    path: Assets/Scenes/StarWarsLevel1.unity
-  - enabled: 0
-    path: Assets/Scenes/StarWarsLevel2.unity
-  - enabled: 0
-    path: Assets/Scenes/MinecraftLevel1.unity
-  - enabled: 0
-    path: Assets/Scenes/MinecraftLevel2.unity
-  - enabled: 1
-<<<<<<< HEAD
-    path: Assets/Scenes/Zelda1.unity
-=======
-    path: Assets/Scenes/Castlevania1.unity
-  - enabled: 1
-    path: Assets/Scenes/Gabe.unity
->>>>>>> origin/master
+  m_Scenes: []
