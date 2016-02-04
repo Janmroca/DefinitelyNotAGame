@@ -12,6 +12,7 @@ TagManager:
   - FaceDoor
   - Stair
   - Creeper
+  - Bullet
   layers:
   - Default
   - TransparentFX
